@@ -1,3 +1,13 @@
+.deathform {
+    margin: 50px;
+}
+
+.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .container {
   padding: 0 2rem;
 }
