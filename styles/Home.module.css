@@ -2,10 +2,16 @@
     margin: 50px;
 }
 
-.map {
+.mapdiv {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 800px;
+    position: relative;
+}
+
+.map {
+    width: 100%;
 }
 
 .container {

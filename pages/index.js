@@ -10,18 +10,48 @@ import Form from 'react-bootstrap/Form'
 
 import Datetime from 'react-datetime'
 
-function Map({}) {
+import ImageMarker from 'react-image-marker';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faLocationPin } from '@fortawesome/free-solid-svg-icons'
+
+function MapPin({}) {
+  return (
+    <FontAwesomeIcon icon={faLocationPin}/>
+  );
+}
+
+function Map({ pinLocation, onClick }) {
   function handle_click(e) {
     e.preventDefault();
-    console.log('Click occurred ', e.pageX - e.target.offsetLeft, e.pageY - e.target.offsetTop);
+    const x = (e.pageX - e.target.offsetLeft) / e.target.width;
+    const y = (e.pageY - e.target.offsetTop) / e.target.height;
+    const val = { x, y };
+    console.log('Map click', val);
+
+    if (onClick) {
+      onClick(val);
+    }
   }
-  return <img className={styles.map} src='/map.png' onClick={handle_click}/>;
+
+  const [ marker, setMarkers ] = useState([]);
+
+  return (
+    <div className={styles.mapdiv}>
+      <ImageMarker src='/map.png' markers={marker} onAddMarker={(m) => setMarkers([m])} className={styles.map} onClick={handle_click}/>
+      <img src='/map.png' className={styles.map} onClick={handle_click}/>
+      <div style={{ position: 'absolute', top: pinLocation.y, left: pinLocation.x, width: '5%' }}>
+        <FontAwesomeIcon icon={faLocationPin}/>
+      </div>
+    </div>
+  );
 }
 
 function DeathForm({ description }) {
   const [ desc, setDesc ] = useState('');
   const [ curTime, setCurTime ] = useState(Date.now());
   const [ pickedTime, setPickedTime ] = useState(null);
+  const [ pin, setPin ] = useState({ x: 0, y: 0 });
 
   function handle_submit(e) {
     e.preventDefault();
@@ -76,7 +106,7 @@ export default function Home() {
       </Head>
 
       <DeathForm/>
-      <Map/>
+      <Map pinLocation={{ x:0.5, y: 0.5 }}/>
     </div>
   )
 }
