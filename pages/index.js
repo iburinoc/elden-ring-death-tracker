@@ -1,3 +1,5 @@
+import { useEffect, useState } from 'react';
+
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
@@ -7,19 +9,39 @@ import Form from 'react-bootstrap/Form'
 
 function Map({}) {
   function handle_click(e) {
-      e.preventDefault();
-      console.log('Click occurred ', e.pageX - e.target.offsetLeft, e.pageY - e.target.offsetTop);
+    e.preventDefault();
+    console.log('Click occurred ', e.pageX - e.target.offsetLeft, e.pageY - e.target.offsetTop);
   }
   return <img className={styles.map} src='/map.png' onClick={handle_click}/>;
 }
 
-function DeathForm({}) {
+function DeathForm({ description }) {
+  const [ desc, setDesc ] = useState('');
+  const [ time, setTime ] = useState(Date.now());
+
+  function handle_submit(e) {
+    e.preventDefault();
+
+    const values = {
+      desc
+    };
+
+    console.log('Submitting form', values);
+  }
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setTime(Date.now());
+    }, 1000);
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <div className={styles.deathform}>
-      <Form>
+      <Form onSubmit={handle_submit}>
         <Form.Group className="mb-3" controlId="time">
           <Form.Label>Description</Form.Label>
-          <Form.Control type="text" placeholder="Enter description" />
+          <Form.Control type="text" placeholder="Enter description" value={desc} onChange={(e) => setDesc(e.target.value)}/>
         </Form.Group>
         <Button variant="primary" type="submit">Death</Button>
       </Form>
