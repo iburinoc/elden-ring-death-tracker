@@ -24,10 +24,11 @@ function MapPin({}) {
 function Map({ pinLocation, onClick }) {
   function handle_click(e) {
     e.preventDefault();
-    const offsetX = e.clientX - e.target.x;
-    const offsetY = e.clientY - e.target.y;
-    const x = offsetX / e.target.width;
-    const y = offsetY / e.target.height;
+    const bounds = e.target.getBoundingClientRect();
+    const offsetX = e.clientX - bounds.x;
+    const offsetY = e.clientY - bounds.y;
+    const x = offsetX / bounds.width;
+    const y = offsetY / bounds.height;
     const val = { x, y };
     console.log('Map click', offsetX, offsetY, val, e);
 
@@ -47,7 +48,7 @@ function Map({ pinLocation, onClick }) {
           position: 'absolute',
           color: '#e63036d0',
           bottom: `calc(100% * (1 - ${pinLocation.y}))`,
-          left: `calc(100% * (${pinLocation.x} - ${width}))`,
+          left: `calc(100% * (${pinLocation.x} - ${width}/2))`,
           width: `calc(100% * ${width})` }}
       >
         <FontAwesomeIcon icon={faLocationPin}/>
@@ -65,8 +66,9 @@ function DeathForm({}) {
   function handle_submit(e) {
     e.preventDefault();
 
+    const time = pickedTime || curTime;
     const values = {
-      desc
+      desc, curTime, pickedTime, pin, time
     };
 
     console.log('Submitting form', values);
@@ -88,11 +90,9 @@ function DeathForm({}) {
       <div className={styles.deathform}>
         <Form onSubmit={handle_submit}>
           <Form.Group className="mb-3" controlId="desc">
-            <Form.Label>Description</Form.Label>
-            <Form.Control type="text" placeholder="Enter description" value={desc} onChange={(e) => setDesc(e.target.value)}/>
+            <Form.Control type="text" placeholder="Description" value={desc} onChange={(e) => setDesc(e.target.value)}/>
           </Form.Group>
           <Form.Group className="mb-3" controlId="time">
-            <Form.Label>Time</Form.Label>
             <Datetime
               value={pickedTime}
               inputProps={{ placeholder: timePlaceholder }}
@@ -100,6 +100,20 @@ function DeathForm({}) {
               dateFormat={dateFormat}
               onChange={setPickedTime} />
           </Form.Group>
+          <div className="row">
+            <div className="col">
+              <Form.Group className="mb-3 row" controlId="x">
+                <Form.Label className="col-1" style={{ margin: 'auto' }}>x</Form.Label>
+                <Form.Control className="col" type="text" readonly disabled value={pin.x}/>
+              </Form.Group> 
+            </div>
+            <div className="col">
+              <Form.Group className="mb-3 row" controlId="y">
+                <Form.Label className="col-1" style={{ margin: 'auto' }}>y</Form.Label>
+                <Form.Control className="col" type="text" readonly disabled value={pin.y}/>
+              </Form.Group> 
+            </div>
+          </div>
           <Button variant="primary" type="submit">Death</Button>
         </Form>
       </div>
