@@ -15,6 +15,8 @@ import ImageMarker from 'react-image-marker';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLocationPin } from '@fortawesome/free-solid-svg-icons'
 
+import axios from 'axios';
+
 function MapPin({}) {
   return (
     <FontAwesomeIcon icon={faLocationPin}/>
@@ -72,6 +74,12 @@ function DeathForm({}) {
     };
 
     console.log('Submitting form', values);
+
+    axios.post('/api/death', values).then((response) => {
+      console.log('Successfully submitted form', response);
+    }).catch((error) => {
+      console.error('Failed to submit form', error);
+    });
   }
 
   useEffect(() => {
