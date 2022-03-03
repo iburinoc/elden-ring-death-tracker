@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import moment from 'moment';
 
 import Head from 'next/head'
@@ -65,9 +65,24 @@ function DeathForm({}) {
   const [ pickedTime, setPickedTime ] = useState(null);
   const [ pin, setPin ] = useState({ x: 0, y: 0 });
 
+  var timeRef = useRef();
+
+  const dateFormat = "YYYY-MM-DD";
+  const timeFormat = "hh:mm:ss A";
+  const formatTime = (t) => moment(t).format(dateFormat + " " + timeFormat);
+
+  function updateTime(t) {
+    console.log('Updating time', t);
+    setPickedTime(t);
+  }
+
+  timeRef.current = pickedTime;
+
   function handle_submit(e) {
     e.preventDefault();
 
+    const curTime = formatTime(curTime);
+    const pickedTime = timeRef.current ? formatTime(timeRef.current) : null;
     const time = pickedTime || curTime;
     const values = {
       desc, curTime, pickedTime, pin, time
@@ -89,10 +104,6 @@ function DeathForm({}) {
     return () => clearInterval(interval);
   }, []);
 
-  const dateFormat = "YYYY-MM-DD";
-  const timeFormat = "hh:mm:ss A";
-  const timePlaceholder = moment(curTime).format(dateFormat + " " + timeFormat);
-
   return (
     <div>
       <div className={styles.deathform}>
@@ -102,23 +113,23 @@ function DeathForm({}) {
           </Form.Group>
           <Form.Group className="mb-3" controlId="time">
             <Datetime
-              value={pickedTime}
-              inputProps={{ placeholder: timePlaceholder }}
+              value={pickedTime ? moment(pickedTime).toDate() : null}
+              inputProps={{ placeholder: formatTime(curTime) }}
               timeFormat={timeFormat}
               dateFormat={dateFormat}
-              onChange={setPickedTime} />
+              onChange={updateTime} />
           </Form.Group>
           <div className="row">
             <div className="col">
               <Form.Group className="mb-3 row" controlId="x">
                 <Form.Label className="col-1" style={{ margin: 'auto' }}>x</Form.Label>
-                <Form.Control className="col" type="text" readonly disabled value={pin.x}/>
+                <Form.Control className="col" type="text" readOnly disabled value={pin.x}/>
               </Form.Group> 
             </div>
             <div className="col">
               <Form.Group className="mb-3 row" controlId="y">
                 <Form.Label className="col-1" style={{ margin: 'auto' }}>y</Form.Label>
-                <Form.Control className="col" type="text" readonly disabled value={pin.y}/>
+                <Form.Control className="col" type="text" readOnly disabled value={pin.y}/>
               </Form.Group> 
             </div>
           </div>
