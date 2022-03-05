@@ -23,7 +23,7 @@ function MapPin({}) {
   );
 }
 
-function Map({ pinLocation, onClick }) {
+function Map({ name, pinLocation, onClick }) {
   function handle_click(e) {
     e.preventDefault();
     const bounds = e.target.getBoundingClientRect();
@@ -43,9 +43,11 @@ function Map({ pinLocation, onClick }) {
 
   const width = 0.02;
 
+  const src = '/maps/' + name + '.png';
+
   return (
     <div className={styles.mapdiv}>
-      <img src='/map.png' className={styles.map} onClick={handle_click}/>
+      <img src={src} className={styles.map} onClick={handle_click}/>
       <div style={{
           position: 'absolute',
           color: '#e63036d0',
@@ -64,6 +66,9 @@ function DeathForm({}) {
   const [ curTime, setCurTime ] = useState(Date.now());
   const [ pickedTime, setPickedTime ] = useState(null);
   const [ pin, setPin ] = useState({ x: 0, y: 0 });
+
+  const maps = [ 'guide', 'limgrave' ];
+  const [ map, setMap ] = useState(maps[0]);
 
   var timeRef = useRef();
 
@@ -85,7 +90,7 @@ function DeathForm({}) {
     const pickedTime = timeRef.current ? formatTime(timeRef.current) : null;
     const time = pickedTime || curTime;
     const values = {
-      desc, curTime, pickedTime, pin, time
+      desc, curTime, pickedTime, pin, time, map
     };
 
     console.log('Submitting form', values);
@@ -133,10 +138,21 @@ function DeathForm({}) {
               </Form.Group> 
             </div>
           </div>
-          <Button variant="primary" type="submit">Death</Button>
+          <div className="form-check mb-3 row">
+            {
+              maps.map((option) => (
+                <Form.Check type='radio' name='map-selector' value={option} label={option} onClick={() => setMap(option)}/>
+              ))
+            }
+          </div>
+          <div className="row">
+            <div className="col-sm">
+              <Button variant="primary" type="submit">Death</Button>
+            </div>
+          </div>
         </Form>
       </div>
-      <Map pinLocation={pin} onClick={setPin} />
+      <Map pinLocation={pin} onClick={setPin} name={map} />
     </div>
   );
 }
