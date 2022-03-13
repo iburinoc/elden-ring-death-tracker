@@ -67,7 +67,7 @@ function DeathForm({}) {
   const [ pickedTime, setPickedTime ] = useState(null);
   const [ pin, setPin ] = useState({ x: 0, y: 0 });
 
-  const maps = [ 'guide', 'limgrave' ];
+  const maps = [ 'guide', 'limgrave', 'bestial_sanctum', 'caelid', 'caelid-2', 'weeping-peninsula', 'full-1', 'liurnia-1', 'ainsel-river-blind', 'ainsel-river', 'liurnia-2', 'liurnia-3', 'liurnia-4', 'liurnia-5', 'carian', 'siofra' ];
   const [ map, setMap ] = useState(maps[0]);
 
   var timeRef = useRef();
@@ -141,7 +141,7 @@ function DeathForm({}) {
           <div className="form-check mb-3 row">
             {
               maps.map((option) => (
-                <Form.Check type='radio' name='map-selector' value={option} label={option} onClick={() => setMap(option)}/>
+                <Form.Check key={option} type='radio' name='map-selector' value={option} label={option} onClick={() => setMap(option)}/>
               ))
             }
           </div>
