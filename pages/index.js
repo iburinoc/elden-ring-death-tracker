@@ -67,7 +67,7 @@ function DeathForm({}) {
   const [ pickedTime, setPickedTime ] = useState(null);
   const [ pin, setPin ] = useState({ x: 0, y: 0 });
 
-  const maps = [ 'guide', 'limgrave', 'bestial_sanctum', 'caelid', 'caelid-2', 'weeping-peninsula', 'full-1', 'liurnia-1', 'ainsel-river-blind', 'ainsel-river', 'liurnia-2', 'liurnia-3', 'liurnia-4', 'liurnia-5', 'carian', 'siofra', 'dragonbarrow', 'altus-plateau', 'deeproot-depths', 'mt-gelmir', 'leyndell', 'giants-mountain-1', 'giants-mountain-2', 'flame-peak' ];
+  const maps = [ 'guide', 'limgrave', 'bestial_sanctum', 'caelid', 'caelid-2', 'weeping-peninsula', 'full-1', 'liurnia-1', 'ainsel-river-blind', 'ainsel-river', 'liurnia-2', 'liurnia-3', 'liurnia-4', 'liurnia-5', 'carian', 'siofra', 'dragonbarrow', 'altus-plateau', 'deeproot-depths', 'mt-gelmir', 'leyndell', 'giants-mountain-1', 'giants-mountain-2', 'flame-peak', 'consecrated-snowfield' ];
   const [ map, setMap ] = useState(maps[0]);
 
   var timeRef = useRef();
