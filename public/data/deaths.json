@@ -1,0 +1,624 @@
+{"desc":"Initial scripted loss","curTime":"2022-03-02 10:45:10 PM","pickedTime":"2022-02-28 08:13:13 PM","pin":{"x":0.38375,"y":0.430691028466267},"time":"2022-02-28 08:13:13 PM"}
+{"desc":"Gatefront ruins","curTime":"2022-03-02 10:45:30 PM","pickedTime":"2022-02-28 08:49:42 PM","pin":{"x":0.45875,"y":0.2797271628182971},"time":"2022-02-28 08:49:42 PM"}
+{"desc":"Wolf cave","curTime":"2022-03-02 10:45:45 PM","pickedTime":"2022-02-28 08:50:11 PM","pin":{"x":0.3625,"y":0.2983756403395169},"time":"2022-02-28 08:50:11 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:00 PM","pickedTime":"2022-02-28 09:33:30 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 09:33:30 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:01 PM","pickedTime":"2022-02-28 09:33:30 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 09:33:30 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:01 PM","pickedTime":"2022-02-28 09:33:30 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 09:33:30 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:05 PM","pickedTime":"2022-02-28 09:33:38 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 09:33:38 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:08 PM","pickedTime":"2022-02-28 09:39:01 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 09:39:01 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:09 PM","pickedTime":"2022-02-28 09:39:01 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 09:39:01 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:12 PM","pickedTime":"2022-02-28 09:43:34 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 09:43:34 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:15 PM","pickedTime":"2022-02-28 10:49:44 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 10:49:44 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:19 PM","pickedTime":"2022-02-28 10:51:58 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 10:51:58 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:22 PM","pickedTime":"2022-02-28 10:53:45 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 10:53:45 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:25 PM","pickedTime":"2022-02-28 10:55:38 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 10:55:38 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:28 PM","pickedTime":"2022-02-28 11:00:14 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-02-28 11:00:14 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:31 PM","pickedTime":"2022-03-01 09:12:48 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-03-01 09:12:48 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:44 PM","pickedTime":"2022-03-01 09:13:03 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-03-01 09:13:03 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:47 PM","pickedTime":"2022-03-01 09:14:08 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-03-01 09:14:08 PM"}
+{"desc":"Margit","curTime":"2022-03-02 10:46:50 PM","pickedTime":"2022-03-01 09:15:57 PM","pin":{"x":0.1675,"y":0.2246697529937434},"time":"2022-03-01 09:15:57 PM"}
+{"desc":"Mad Tongue Alberich","curTime":"2022-03-02 10:47:04 PM","pickedTime":"2022-03-01 09:17:34 PM","pin":{"x":0.05,"y":0.9365679866935342},"time":"2022-03-01 09:17:34 PM"}
+{"desc":"Mad Tongue Alberich","curTime":"2022-03-02 10:47:08 PM","pickedTime":"2022-03-01 09:31:08 PM","pin":{"x":0.05,"y":0.9365679866935342},"time":"2022-03-01 09:31:08 PM"}
+{"desc":"Limgrave fields","curTime":"2022-03-02 10:47:23 PM","pickedTime":"2022-03-01 09:31:11 PM","pin":{"x":0.495,"y":0.2628547307752887},"time":"2022-03-01 09:31:11 PM"}
+{"desc":"Stormfoot Catacombs","curTime":"2022-03-02 10:47:39 PM","pickedTime":"2022-03-01 09:40:39 PM","pin":{"x":0.2775,"y":0.3063678449914683},"time":"2022-03-01 09:40:39 PM"}
+{"desc":"Erdtree burial watchdog","curTime":"2022-03-02 10:47:45 PM","pickedTime":"2022-03-01 10:04:49 PM","pin":{"x":0.2775,"y":0.3063678449914683},"time":"2022-03-01 10:04:49 PM"}
+{"desc":"Night's cavalry","curTime":"2022-03-02 11:20:51 PM","pickedTime":null,"pin":{"x":0.5612499571800265,"y":0.3385883875768108},"time":"2022-03-02 11:20:51 PM"}
+{"desc":"Margit","curTime":"2022-03-02 11:40:08 PM","pickedTime":null,"pin":{"x":0.16249998760223483,"y":0.22314685808928095},"time":"2022-03-02 11:40:08 PM"}
+{"desc":"Margit","curTime":"2022-03-02 11:44:42 PM","pickedTime":null,"pin":{"x":0.16249998760223483,"y":0.22314685808928095},"time":"2022-03-02 11:44:42 PM"}
+{"desc":"Night's cavalry","curTime":"2022-03-03 08:58:05 PM","pickedTime":null,"pin":{"x":0.5632197619033632,"y":0.3384596235304728},"time":"2022-03-03 08:58:05 PM"}
+{"desc":"Night's cavalry","curTime":"2022-03-03 09:02:33 PM","pickedTime":null,"pin":{"x":0.5632197619033632,"y":0.3384596235304728},"time":"2022-03-03 09:02:33 PM"}
+{"desc":"Limgrave","curTime":"2022-03-03 10:18:06 PM","pickedTime":null,"pin":{"x":0.6275,"y":0.3936900764868121},"time":"2022-03-03 10:18:06 PM"}
+{"desc":"Limgrave","curTime":"2022-03-03 10:24:46 PM","pickedTime":null,"pin":{"x":0.6,"y":0.35076898194675354},"time":"2022-03-03 10:24:46 PM"}
+{"desc":"Margit","curTime":"2022-03-03 10:36:17 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 10:36:17 PM"}
+{"desc":"Margit","curTime":"2022-03-03 10:39:05 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 10:39:05 PM"}
+{"desc":"Margit","curTime":"2022-03-03 10:49:33 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 10:49:33 PM"}
+{"desc":"Margit","curTime":"2022-03-03 10:49:48 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 10:49:48 PM"}
+{"desc":"Margit","curTime":"2022-03-03 10:52:16 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 10:52:16 PM"}
+{"desc":"Margit","curTime":"2022-03-03 10:56:27 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 10:56:27 PM"}
+{"desc":"Margit","curTime":"2022-03-03 11:00:07 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 11:00:07 PM"}
+{"desc":"Margit","curTime":"2022-03-03 11:03:45 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 11:03:45 PM"}
+{"desc":"Margit","curTime":"2022-03-03 11:07:27 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 11:07:27 PM"}
+{"desc":"Margit","curTime":"2022-03-03 11:11:25 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 11:11:25 PM"}
+{"desc":"Margit","curTime":"2022-03-03 11:14:18 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 11:14:18 PM"}
+{"desc":"Margit","curTime":"2022-03-03 11:15:24 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 11:15:24 PM"}
+{"desc":"Margit","curTime":"2022-03-03 11:19:34 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 11:19:34 PM"}
+{"desc":"Margit","curTime":"2022-03-03 11:23:48 PM","pickedTime":null,"pin":{"x":0.16875,"y":0.22733382121106052},"time":"2022-03-03 11:23:48 PM"}
+{"desc":"Siofra River","curTime":"2022-03-03 11:45:17 PM","pickedTime":null,"pin":{"x":0.825,"y":0.29659959486130555},"time":"2022-03-03 11:45:17 PM"}
+{"desc":"Siofra River","curTime":"2022-03-04 08:41:39 PM","pickedTime":null,"pin":{"x":0.8245833206176758,"y":0.2983765783266269},"time":"2022-03-04 08:41:39 PM"}
+{"desc":"Mistwood Castle","curTime":"2022-03-04 09:05:02 PM","pickedTime":null,"pin":{"x":0.9220833206176757,"y":0.410267795199112},"time":"2022-03-04 09:05:02 PM"}
+{"desc":"Fort Haight","curTime":"2022-03-04 09:16:16 PM","pickedTime":null,"pin":{"x":0.8970833206176758,"y":0.39694741223810187},"time":"2022-03-04 09:16:16 PM"}
+{"desc":"Fort Haight","curTime":"2022-03-04 09:20:51 PM","pickedTime":null,"pin":{"x":0.8970833206176758,"y":0.39694741223810187},"time":"2022-03-04 09:20:51 PM"}
+{"desc":"Fort Haight","curTime":"2022-03-04 09:23:06 PM","pickedTime":null,"pin":{"x":0.8970833206176758,"y":0.39694741223810187},"time":"2022-03-04 09:23:06 PM"}
+{"desc":"Fort Haight","curTime":"2022-03-04 09:26:03 PM","pickedTime":null,"pin":{"x":0.8970833206176758,"y":0.39694741223810187},"time":"2022-03-04 09:26:03 PM"}
+{"desc":"Fort Haight","curTime":"2022-03-04 10:18:56 PM","pickedTime":null,"pin":{"x":0.8970833206176758,"y":0.39694741223810187},"time":"2022-03-04 10:18:56 PM"}
+{"desc":"Siofra River","curTime":"2022-03-04 10:51:11 PM","pickedTime":null,"pin":{"x":0.82375,"y":0.2983756403395169},"time":"2022-03-04 10:51:11 PM"}
+{"desc":"Margit","curTime":"2022-03-04 11:27:01 PM","pickedTime":null,"pin":{"x":0.1625,"y":0.2246697529937434},"time":"2022-03-04 11:27:01 PM"}
+{"desc":"Margit","curTime":"2022-03-04 11:32:17 PM","pickedTime":null,"pin":{"x":0.1625,"y":0.2246697529937434},"time":"2022-03-04 11:32:17 PM"}
+{"desc":"Margit","curTime":"2022-03-04 11:35:58 PM","pickedTime":null,"pin":{"x":0.1625,"y":0.2246697529937434},"time":"2022-03-04 11:35:58 PM"}
+{"desc":"Margit","curTime":"2022-03-04 11:40:51 PM","pickedTime":null,"pin":{"x":0.1625,"y":0.2246697529937434},"time":"2022-03-04 11:40:51 PM"}
+{"desc":"Bestial Sanctum Grounds","curTime":"2022-03-05 07:11:51 PM","pickedTime":null,"pin":{"x":0.6866666603088379,"y":0.32529518714304256},"time":"2022-03-05 07:11:51 PM","map":"bestial_sanctum"}
+{"desc":"Stormveil Castle","curTime":"2022-03-05 07:26:33 PM","pickedTime":null,"pin":{"x":0.05916666030883789,"y":0.19773367580997642},"time":"2022-03-05 07:26:33 PM","map":"guide"}
+{"desc":"Stormveil Castle","curTime":"2022-03-05 07:30:49 PM","pickedTime":null,"pin":{"x":0.05916666030883789,"y":0.18885342050263632},"time":"2022-03-05 07:30:49 PM","map":"guide"}
+{"desc":"Stormveil Castle","curTime":"2022-03-05 07:34:59 PM","pickedTime":null,"pin":{"x":0.055,"y":0.1891488434295152},"time":"2022-03-05 07:34:59 PM","map":"guide"}
+{"desc":"Stormveil Castle","curTime":"2022-03-05 07:37:25 PM","pickedTime":null,"pin":{"x":0.055,"y":0.1891488434295152},"time":"2022-03-05 07:37:25 PM","map":"guide"}
+{"desc":"Stormveil Castle","curTime":"2022-03-05 08:10:22 PM","pickedTime":null,"pin":{"x":0.07125,"y":0.19625272750588807},"time":"2022-03-05 08:10:22 PM","map":"guide"}
+{"desc":"Stormveil Castle","curTime":"2022-03-05 09:06:17 PM","pickedTime":null,"pin":{"x":0.07125,"y":0.19625272750588807},"time":"2022-03-05 09:06:17 PM","map":"guide"}
+{"desc":"Stormveil Castle","curTime":"2022-03-05 09:16:51 PM","pickedTime":null,"pin":{"x":0.07232141896656655,"y":0.1861040307113379},"time":"2022-03-05 09:16:51 PM","map":"guide"}
+{"desc":"Stormveil Castle","curTime":"2022-03-05 09:37:41 PM","pickedTime":null,"pin":{"x":0.079821418394362,"y":0.1575604577432383},"time":"2022-03-05 09:37:41 PM","map":"guide"}
+{"desc":"Stormveil Castle","curTime":"2022-03-05 09:39:46 PM","pickedTime":null,"pin":{"x":0.061071419824873366,"y":0.18141019449654022},"time":"2022-03-05 09:39:46 PM","map":"guide"}
+{"desc":"Stormveil Castle","curTime":"2022-03-05 10:51:11 PM","pickedTime":null,"pin":{"x":0.07625,"y":0.13434539421908273},"time":"2022-03-05 10:51:11 PM","map":"guide"}
+{"desc":"Godrick","curTime":"2022-03-05 11:23:19 PM","pickedTime":null,"pin":{"x":0.07,"y":0.09413070625780491},"time":"2022-03-05 11:23:19 PM","map":"guide"}
+{"desc":"Godrick","curTime":"2022-03-05 11:23:20 PM","pickedTime":null,"pin":{"x":0.07,"y":0.09413070625780491},"time":"2022-03-05 11:23:20 PM","map":"guide"}
+{"desc":"Night's cavalry","curTime":"2022-03-05 11:27:29 PM","pickedTime":null,"pin":{"x":0.5625,"y":0.3392257527403913},"time":"2022-03-05 11:27:29 PM","map":"guide"}
+{"desc":"Night's cavalry","curTime":"2022-03-05 11:30:25 PM","pickedTime":null,"pin":{"x":0.5625,"y":0.3392257527403913},"time":"2022-03-05 11:30:25 PM","map":"guide"}
+{"desc":"Night's cavalry","curTime":"2022-03-05 11:35:29 PM","pickedTime":null,"pin":{"x":0.5625,"y":0.3392257527403913},"time":"2022-03-05 11:35:29 PM","map":"guide"}
+{"desc":"Minor Erdtree Catacombs","curTime":"2022-03-05 11:52:05 PM","pickedTime":null,"pin":{"x":0.9948213485854074,"y":0.004097385940794474},"time":"2022-03-05 11:52:05 PM","map":"limgrave"}
+{"desc":"Minor Erdtree Catacombs","curTime":"2022-03-06 10:30:39 AM","pickedTime":null,"pin":{"x":0.1252499771118164,"y":0.9339918946240219},"time":"2022-03-06 10:30:39 AM","map":"bestial_sanctum"}
+{"desc":"Minor Erdtree Catacombs","curTime":"2022-03-06 10:30:41 AM","pickedTime":null,"pin":{"x":0.1252499771118164,"y":0.9339918946240219},"time":"2022-03-06 10:30:41 AM","map":"bestial_sanctum"}
+{"desc":"Minor Erdtree Catacombs","curTime":"2022-03-06 10:33:56 AM","pickedTime":null,"pin":{"x":0.1252499771118164,"y":0.9339918946240219},"time":"2022-03-06 10:33:56 AM","map":"bestial_sanctum"}
+{"desc":"Minor Erdtree Catacombs","curTime":"2022-03-06 10:37:41 AM","pickedTime":null,"pin":{"x":0.1252499771118164,"y":0.9339918946240219},"time":"2022-03-06 10:37:41 AM","map":"bestial_sanctum"}
+{"desc":"Minor Erdtree Catacombs","curTime":"2022-03-06 10:41:07 AM","pickedTime":null,"pin":{"x":0.1252499771118164,"y":0.9339918946240219},"time":"2022-03-06 10:41:07 AM","map":"bestial_sanctum"}
+{"desc":"Minor Erdtree Catacombs","curTime":"2022-03-06 10:44:22 AM","pickedTime":null,"pin":{"x":0.1252499771118164,"y":0.9339918946240219},"time":"2022-03-06 10:44:22 AM","map":"bestial_sanctum"}
+{"desc":"Minor Erdtree Catacombs","curTime":"2022-03-06 10:47:15 AM","pickedTime":null,"pin":{"x":0.1252499771118164,"y":0.9339918946240219},"time":"2022-03-06 10:47:15 AM","map":"bestial_sanctum"}
+{"desc":"Minor Erdtree Catacombs","curTime":"2022-03-06 10:50:45 AM","pickedTime":null,"pin":{"x":0.1252499771118164,"y":0.9339918946240219},"time":"2022-03-06 10:50:45 AM","map":"bestial_sanctum"}
+{"desc":"Erdtree Avatar","curTime":"2022-03-06 10:52:35 AM","pickedTime":null,"pin":{"x":0.10649997711181641,"y":0.8242278899139338},"time":"2022-03-06 10:52:35 AM","map":"bestial_sanctum"}
+{"desc":"Erdtree Avatar","curTime":"2022-03-06 10:53:24 AM","pickedTime":null,"pin":{"x":0.10649997711181641,"y":0.8242278899139338},"time":"2022-03-06 10:53:24 AM","map":"bestial_sanctum"}
+{"desc":"Erdtree Avatar","curTime":"2022-03-06 10:57:09 AM","pickedTime":null,"pin":{"x":0.10649997711181641,"y":0.8242278899139338},"time":"2022-03-06 10:57:09 AM","map":"bestial_sanctum"}
+{"desc":"Caelid","curTime":"2022-03-06 12:06:17 PM","pickedTime":null,"pin":{"x":0.5564999771118164,"y":0.21645848978988588},"time":"2022-03-06 12:06:17 PM","map":"caelid"}
+{"desc":"Caelid","curTime":"2022-03-06 01:59:28 PM","pickedTime":null,"pin":{"x":0.5158333396911621,"y":0.4504099571830134},"time":"2022-03-06 01:59:28 PM","map":"caelid"}
+{"desc":"Caelid","curTime":"2022-03-06 02:03:54 PM","pickedTime":null,"pin":{"x":0.5008333396911621,"y":0.6267840855915359},"time":"2022-03-06 02:03:54 PM","map":"caelid"}
+{"desc":"Fort Gael","curTime":"2022-03-06 02:08:09 PM","pickedTime":null,"pin":{"x":0.5175,"y":0.6019053320618931},"time":"2022-03-06 02:08:09 PM","map":"caelid"}
+{"desc":"Fort Gael","curTime":"2022-03-06 02:10:33 PM","pickedTime":null,"pin":{"x":0.5175,"y":0.6019053320618931},"time":"2022-03-06 02:10:33 PM","map":"caelid"}
+{"desc":"Fort Gael","curTime":"2022-03-06 02:15:03 PM","pickedTime":null,"pin":{"x":0.5175,"y":0.6019053320618931},"time":"2022-03-06 02:15:03 PM","map":"caelid"}
+{"desc":"Fort Gael","curTime":"2022-03-06 02:31:24 PM","pickedTime":null,"pin":{"x":0.67,"y":0.7894298182291177},"time":"2022-03-06 02:31:24 PM","map":"caelid-2"}
+{"desc":"Fort Gael","curTime":"2022-03-06 02:35:04 PM","pickedTime":null,"pin":{"x":0.72,"y":0.7824348701123721},"time":"2022-03-06 02:35:04 PM","map":"caelid-2"}
+{"desc":"Castle Morne","curTime":"2022-03-06 04:18:20 PM","pickedTime":null,"pin":{"x":0.44232139073780896,"y":0.8097755515710205},"time":"2022-03-06 04:18:20 PM","map":"weeping-peninsula"}
+{"desc":"Castle Morne","curTime":"2022-03-06 04:27:13 PM","pickedTime":null,"pin":{"x":0.44232139073780896,"y":0.8097755515710205},"time":"2022-03-06 04:27:13 PM","map":"weeping-peninsula"}
+{"desc":"Castle Morne","curTime":"2022-03-06 04:39:55 PM","pickedTime":null,"pin":{"x":0.4460713904517067,"y":0.914896205495401},"time":"2022-03-06 04:39:55 PM","map":"weeping-peninsula"}
+{"desc":"Weeping Peninsula","curTime":"2022-03-06 05:00:01 PM","pickedTime":null,"pin":{"x":0.4908333349227905,"y":0.29918822451751476},"time":"2022-03-06 05:00:01 PM","map":"weeping-peninsula"}
+{"desc":"Ancient Hero of Zamor","curTime":"2022-03-06 05:34:54 PM","pickedTime":null,"pin":{"x":0.2616666603088379,"y":0.2668463502109106},"time":"2022-03-06 05:34:54 PM","map":"weeping-peninsula"}
+{"desc":"Leyndell","curTime":"2022-03-06 05:48:16 PM","pickedTime":null,"pin":{"x":0.4554166603088379,"y":0.045488753240237476},"time":"2022-03-06 05:48:16 PM","map":"full-1"}
+{"desc":"Leyndell","curTime":"2022-03-06 05:48:54 PM","pickedTime":null,"pin":{"x":0.4554166603088379,"y":0.045488753240237476},"time":"2022-03-06 05:48:54 PM","map":"full-1"}
+{"desc":"Leyndell","curTime":"2022-03-06 05:52:06 PM","pickedTime":null,"pin":{"x":0.4554166603088379,"y":0.045488753240237476},"time":"2022-03-06 05:52:06 PM","map":"full-1"}
+{"desc":"Leyndell","curTime":"2022-03-06 05:56:20 PM","pickedTime":null,"pin":{"x":0.4554166603088379,"y":0.045488753240237476},"time":"2022-03-06 05:56:20 PM","map":"full-1"}
+{"desc":"Leyndell","curTime":"2022-03-06 05:57:38 PM","pickedTime":null,"pin":{"x":0.4554166603088379,"y":0.045488753240237476},"time":"2022-03-06 05:57:38 PM","map":"full-1"}
+{"desc":"Godrick","curTime":"2022-03-06 06:09:22 PM","pickedTime":null,"pin":{"x":0.06666666030883789,"y":0.09294666318336339},"time":"2022-03-06 06:09:22 PM","map":"guide"}
+{"desc":"Godrick","curTime":"2022-03-06 06:12:13 PM","pickedTime":null,"pin":{"x":0.06666666030883789,"y":0.09294666318336339},"time":"2022-03-06 06:12:13 PM","map":"guide"}
+{"desc":"Godrick","curTime":"2022-03-06 06:17:45 PM","pickedTime":null,"pin":{"x":0.06666666030883789,"y":0.09294666318336339},"time":"2022-03-06 06:17:45 PM","map":"guide"}
+{"desc":"Godrick","curTime":"2022-03-06 06:20:27 PM","pickedTime":null,"pin":{"x":0.06666666030883789,"y":0.09294666318336339},"time":"2022-03-06 06:20:27 PM","map":"guide"}
+{"desc":"Godrick","curTime":"2022-03-06 06:22:18 PM","pickedTime":null,"pin":{"x":0.06666666030883789,"y":0.09294666318336339},"time":"2022-03-06 06:22:18 PM","map":"guide"}
+{"desc":"Godrick","curTime":"2022-03-06 06:25:41 PM","pickedTime":null,"pin":{"x":0.06666666030883789,"y":0.09294666318336339},"time":"2022-03-06 06:25:41 PM","map":"guide"}
+{"desc":"Godrick","curTime":"2022-03-06 06:31:55 PM","pickedTime":null,"pin":{"x":0.06666666030883789,"y":0.09294666318336339},"time":"2022-03-06 06:31:55 PM","map":"guide"}
+{"desc":"Mad Tongue Alberich","curTime":"2022-03-06 06:38:39 PM","pickedTime":null,"pin":{"x":0.11791666030883789,"y":0.9570476839161406},"time":"2022-03-06 06:38:39 PM","map":"full-1"}
+{"desc":"Impassable Greatbridge","curTime":"2022-03-06 06:45:23 PM","pickedTime":null,"pin":{"x":0.6166666603088379,"y":0.8409598519245483},"time":"2022-03-06 06:45:23 PM","map":"caelid-2"}
+{"desc":"Impassable Bridge Castle","curTime":"2022-03-07 10:47:23 PM","pickedTime":null,"pin":{"x":0.7179166603088379,"y":0.7780044453375473},"time":"2022-03-07 10:47:23 PM","map":"caelid-2"}
+{"desc":"Castle Redmane","curTime":"2022-03-07 11:40:01 PM","pickedTime":null,"pin":{"x":0.77,"y":0.8030194759613226},"time":"2022-03-07 11:40:01 PM","map":"caelid-2"}
+{"desc":"Castle Redmane","curTime":"2022-03-07 11:44:00 PM","pickedTime":null,"pin":{"x":0.77,"y":0.8030194759613226},"time":"2022-03-07 11:44:00 PM","map":"caelid-2"}
+{"desc":"Castle Redmane","curTime":"2022-03-07 11:49:31 PM","pickedTime":null,"pin":{"x":0.77,"y":0.8030194759613226},"time":"2022-03-07 11:49:31 PM","map":"caelid-2"}
+{"desc":"Castle Redmane","curTime":"2022-03-07 11:56:29 PM","pickedTime":null,"pin":{"x":0.77,"y":0.8030194759613226},"time":"2022-03-07 11:56:29 PM","map":"caelid-2"}
+{"desc":"Castle Redmane","curTime":"2022-03-08 12:01:21 AM","pickedTime":null,"pin":{"x":0.77,"y":0.8030194759613226},"time":"2022-03-08 12:01:21 AM","map":"caelid-2"}
+{"desc":"Castle Redmane Boss","curTime":"2022-03-08 12:31:17 AM","pickedTime":null,"pin":{"x":0.7625,"y":0.749857918775293},"time":"2022-03-08 12:31:17 AM","map":"caelid-2"}
+{"desc":"Redmane Castle Boss","curTime":"2022-03-08 08:52:39 PM","pickedTime":null,"pin":{"x":0.7627499771118164,"y":0.7554648790440105},"time":"2022-03-08 08:52:39 PM","map":"caelid-2"}
+{"desc":"Redmane Castle Boss","curTime":"2022-03-08 08:55:59 PM","pickedTime":null,"pin":{"x":0.7627499771118164,"y":0.7554648790440105},"time":"2022-03-08 08:55:59 PM","map":"caelid-2"}
+{"desc":"Redmane Castle Boss","curTime":"2022-03-08 08:57:45 PM","pickedTime":null,"pin":{"x":0.7627499771118164,"y":0.7554648790440105},"time":"2022-03-08 08:57:45 PM","map":"caelid-2"}
+{"desc":"Redmane Castle Boss","curTime":"2022-03-08 09:00:18 PM","pickedTime":null,"pin":{"x":0.7627499771118164,"y":0.7554648790440105},"time":"2022-03-08 09:00:18 PM","map":"caelid-2"}
+{"desc":"Redmane Castle Boss","curTime":"2022-03-08 09:01:20 PM","pickedTime":null,"pin":{"x":0.7627499771118164,"y":0.7554648790440105},"time":"2022-03-08 09:01:20 PM","map":"caelid-2"}
+{"desc":"Redmane Castle Boss","curTime":"2022-03-08 09:03:11 PM","pickedTime":null,"pin":{"x":0.7627499771118164,"y":0.7554648790440105},"time":"2022-03-08 09:03:11 PM","map":"caelid-2"}
+{"desc":"Redmane Castle Boss","curTime":"2022-03-08 09:04:17 PM","pickedTime":null,"pin":{"x":0.7627499771118164,"y":0.7554648790440105},"time":"2022-03-08 09:04:17 PM","map":"caelid-2"}
+{"desc":"Redmane Castle Boss","curTime":"2022-03-08 09:05:02 PM","pickedTime":null,"pin":{"x":0.7627499771118164,"y":0.7554648790440105},"time":"2022-03-08 09:05:02 PM","map":"caelid-2"}
+{"desc":"Redmane Castle Boss","curTime":"2022-03-08 09:06:32 PM","pickedTime":null,"pin":{"x":0.7627499771118164,"y":0.7554648790440105},"time":"2022-03-08 09:06:32 PM","map":"caelid-2"}
+{"desc":"Redmane Castle Boss","curTime":"2022-03-08 09:07:28 PM","pickedTime":null,"pin":{"x":0.7627499771118164,"y":0.7554648790440105},"time":"2022-03-08 09:07:28 PM","map":"caelid-2"}
+{"desc":"Puppet Giant","curTime":"2022-03-08 09:42:28 PM","pickedTime":null,"pin":{"x":0.4427499771118164,"y":0.46872043627848226},"time":"2022-03-08 09:42:28 PM","map":"liurnia-1"}
+{"desc":"Puppet Giant","curTime":"2022-03-08 09:56:20 PM","pickedTime":null,"pin":{"x":0.4427499771118164,"y":0.46872043627848226},"time":"2022-03-08 09:56:20 PM","map":"liurnia-1"}
+{"desc":"Night's cavalry","curTime":"2022-03-08 10:41:02 PM","pickedTime":null,"pin":{"x":0.41049999713897706,"y":0.601573885164675},"time":"2022-03-08 10:41:02 PM","map":"caelid-2"}
+{"desc":"Invader Millicent","curTime":"2022-03-08 10:45:13 PM","pickedTime":null,"pin":{"x":0.43174999713897705,"y":0.29146021568055963},"time":"2022-03-08 10:45:13 PM","map":"caelid-2"}
+{"desc":"Wolves","curTime":"2022-03-10 08:26:44 PM","pickedTime":null,"pin":{"x":0.3711666300837227,"y":0.158760147771744},"time":"2022-03-10 08:26:44 PM","map":"liurnia-1"}
+{"desc":"Uhl Palace Ruins","curTime":"2022-03-10 08:55:54 PM","pickedTime":null,"pin":{"x":0.666583315537772,"y":0.49366406671842594},"time":"2022-03-10 08:55:54 PM","map":"ainsel-river-blind"}
+{"desc":"Uhl Palace Ruins","curTime":"2022-03-10 08:58:40 PM","pickedTime":null,"pin":{"x":0.6915833136304235,"y":0.5003775407168777},"time":"2022-03-10 08:58:40 PM","map":"ainsel-river-blind"}
+{"desc":"Frogs","curTime":"2022-03-10 10:02:28 PM","pickedTime":null,"pin":{"x":0.385,"y":0.7818417265848361},"time":"2022-03-10 10:02:28 PM","map":"ainsel-river"}
+{"desc":"Dragonkin Soldier of Nokstella","curTime":"2022-03-10 10:11:33 PM","pickedTime":null,"pin":{"x":0.355,"y":0.5294085233825572},"time":"2022-03-10 10:11:33 PM","map":"ainsel-river"}
+{"desc":"Dragonkin Soldier of Nokstella","curTime":"2022-03-10 10:14:38 PM","pickedTime":null,"pin":{"x":0.355,"y":0.5294085233825572},"time":"2022-03-10 10:14:38 PM","map":"ainsel-river"}
+{"desc":"Dragonkin Soldier of Nokstella","curTime":"2022-03-10 10:16:10 PM","pickedTime":null,"pin":{"x":0.355,"y":0.5294085233825572},"time":"2022-03-10 10:16:10 PM","map":"ainsel-river"}
+{"desc":"Dragonkin Soldier of Nokstella","curTime":"2022-03-10 10:21:01 PM","pickedTime":null,"pin":{"x":0.355,"y":0.5294085233825572},"time":"2022-03-10 10:21:01 PM","map":"ainsel-river"}
+{"desc":"Dragonkin Soldier of Nokstella","curTime":"2022-03-10 10:23:02 PM","pickedTime":null,"pin":{"x":0.355,"y":0.5294085233825572},"time":"2022-03-10 10:23:02 PM","map":"ainsel-river"}
+{"desc":"Dragonkin Soldier of Nokstella","curTime":"2022-03-10 10:27:39 PM","pickedTime":null,"pin":{"x":0.355,"y":0.5294085233825572},"time":"2022-03-10 10:27:39 PM","map":"ainsel-river"}
+{"desc":"Ainsel River","curTime":"2022-03-10 10:41:28 PM","pickedTime":null,"pin":{"x":0.51875,"y":0.6871792753839815},"time":"2022-03-10 10:41:28 PM","map":"ainsel-river"}
+{"desc":"Ainsel River","curTime":"2022-03-10 10:51:14 PM","pickedTime":null,"pin":{"x":0.53,"y":0.7695706680958364},"time":"2022-03-10 10:51:14 PM","map":"ainsel-river"}
+{"desc":"Ainsel River","curTime":"2022-03-10 10:55:38 PM","pickedTime":null,"pin":{"x":0.32625,"y":0.5188904732491288},"time":"2022-03-10 10:55:38 PM","map":"ainsel-river"}
+{"desc":"Preceptor Miriam","curTime":"2022-03-10 10:59:12 PM","pickedTime":null,"pin":{"x":0.4575,"y":0.1077313803083102},"time":"2022-03-10 10:59:12 PM","map":"liurnia-1"}
+{"desc":"Preceptor Miriam","curTime":"2022-03-10 11:02:55 PM","pickedTime":null,"pin":{"x":0.4575,"y":0.1077313803083102},"time":"2022-03-10 11:02:55 PM","map":"liurnia-1"}
+{"desc":"Minotaurs","curTime":"2022-03-12 06:33:19 PM","pickedTime":null,"pin":{"x":0.63875,"y":0.03506114754362503},"time":"2022-03-12 06:33:19 PM","map":"liurnia-2"}
+{"desc":"Minotaurs","curTime":"2022-03-12 06:34:25 PM","pickedTime":null,"pin":{"x":0.64875,"y":0.022686624881169133},"time":"2022-03-12 06:34:25 PM","map":"liurnia-2"}
+{"desc":"Bear","curTime":"2022-03-12 06:47:17 PM","pickedTime":null,"pin":{"x":0.56625,"y":0.7953595550258244},"time":"2022-03-12 06:47:17 PM","map":"liurnia-3"}
+{"desc":"Raya Lucaria Crystal Cavern","curTime":"2022-03-12 06:54:29 PM","pickedTime":null,"pin":{"x":0.54875,"y":0.7851887167262614},"time":"2022-03-12 06:54:29 PM","map":"liurnia-3"}
+{"desc":"Rose Church","curTime":"2022-03-12 07:25:53 PM","pickedTime":null,"pin":{"x":0.3149999759674091,"y":0.7085903077600507},"time":"2022-03-12 07:25:53 PM","map":"liurnia-2"}
+{"desc":"Rose Church","curTime":"2022-03-12 07:27:13 PM","pickedTime":null,"pin":{"x":0.3149999759674091,"y":0.7085903077600507},"time":"2022-03-12 07:27:13 PM","map":"liurnia-2"}
+{"desc":"Glintstone Dragon Smarag","curTime":"2022-03-12 07:34:17 PM","pickedTime":null,"pin":{"x":0.20874998407364012,"y":0.3868519895277545},"time":"2022-03-12 07:34:17 PM","map":"liurnia-2"}
+{"desc":"Glintstone Dragon Smarag","curTime":"2022-03-12 07:36:37 PM","pickedTime":null,"pin":{"x":0.19249998531341664,"y":0.4301629169821021},"time":"2022-03-12 07:36:37 PM","map":"liurnia-2"}
+{"desc":"Elevator","curTime":"2022-03-12 08:34:43 PM","pickedTime":null,"pin":{"x":0.3374999742507954,"y":0.40335139046274404},"time":"2022-03-12 08:34:43 PM","map":"liurnia-2"}
+{"desc":"Erdtree Avatar","curTime":"2022-03-12 08:48:27 PM","pickedTime":null,"pin":{"x":0.1575,"y":0.7768491689001596},"time":"2022-03-12 08:48:27 PM","map":"liurnia-2"}
+{"desc":"Erdtree Avatar","curTime":"2022-03-12 08:49:09 PM","pickedTime":null,"pin":{"x":0.1575,"y":0.7768491689001596},"time":"2022-03-12 08:49:09 PM","map":"liurnia-2"}
+{"desc":"Soldiers","curTime":"2022-03-12 08:56:35 PM","pickedTime":null,"pin":{"x":0.1075,"y":0.14986999972243278},"time":"2022-03-12 08:56:35 PM","map":"liurnia-2"}
+{"desc":"Soldiers","curTime":"2022-03-12 09:03:03 PM","pickedTime":null,"pin":{"x":0.14,"y":0.12099589609620266},"time":"2022-03-12 09:03:03 PM","map":"liurnia-2"}
+{"desc":"Soldiers","curTime":"2022-03-12 09:04:36 PM","pickedTime":null,"pin":{"x":0.14,"y":0.12099589609620266},"time":"2022-03-12 09:04:36 PM","map":"liurnia-2"}
+{"desc":"Eternal City","curTime":"2022-03-12 09:21:40 PM","pickedTime":null,"pin":{"x":0.4725,"y":0.6982188466990005},"time":"2022-03-12 09:21:40 PM","map":"caelid"}
+{"desc":"Elf Dude","curTime":"2022-03-12 10:01:08 PM","pickedTime":null,"pin":{"x":0.3725,"y":0.4227954192547317},"time":"2022-03-12 10:01:08 PM","map":"liurnia-2"}
+{"desc":"Falling","curTime":"2022-03-12 10:03:18 PM","pickedTime":null,"pin":{"x":0.36125,"y":0.422107988988276},"time":"2022-03-12 10:03:18 PM","map":"liurnia-2"}
+{"desc":"Renalla, Queen of the Full Moon","curTime":"2022-03-12 10:37:07 PM","pickedTime":null,"pin":{"x":0.31125,"y":0.2894258283072102},"time":"2022-03-12 10:37:07 PM","map":"liurnia-2"}
+{"desc":"Falling","curTime":"2022-03-12 10:39:11 PM","pickedTime":null,"pin":{"x":0.34,"y":0.3079875784208326},"time":"2022-03-12 10:39:11 PM","map":"liurnia-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-12 10:56:24 PM","pickedTime":null,"pin":{"x":0.76375,"y":0.7463972357958686},"time":"2022-03-12 10:56:24 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-12 10:58:10 PM","pickedTime":null,"pin":{"x":0.76375,"y":0.7463972357958686},"time":"2022-03-12 10:58:10 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-12 11:01:45 PM","pickedTime":null,"pin":{"x":0.76375,"y":0.7463972357958686},"time":"2022-03-12 11:01:45 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-12 11:04:20 PM","pickedTime":null,"pin":{"x":0.76375,"y":0.7463972357958686},"time":"2022-03-12 11:04:20 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-12 11:05:58 PM","pickedTime":null,"pin":{"x":0.76375,"y":0.7463972357958686},"time":"2022-03-12 11:05:58 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-12 11:07:46 PM","pickedTime":null,"pin":{"x":0.76375,"y":0.7463972357958686},"time":"2022-03-12 11:07:46 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-12 11:09:28 PM","pickedTime":null,"pin":{"x":0.76375,"y":0.7463972357958686},"time":"2022-03-12 11:09:28 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-12 11:13:04 PM","pickedTime":null,"pin":{"x":0.76375,"y":0.7463972357958686},"time":"2022-03-12 11:13:04 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-12 11:14:42 PM","pickedTime":null,"pin":{"x":0.76375,"y":0.7463972357958686},"time":"2022-03-12 11:14:42 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-12 11:16:17 PM","pickedTime":null,"pin":{"x":0.76375,"y":0.7463972357958686},"time":"2022-03-12 11:16:17 PM","map":"caelid-2"}
+{"desc":"Erdtree Avatar","curTime":"2022-03-12 11:18:53 PM","pickedTime":null,"pin":{"x":0.43875,"y":0.03303978852336078},"time":"2022-03-12 11:18:53 PM","map":"caelid"}
+{"desc":"Erdtree Avatar","curTime":"2022-03-12 11:19:48 PM","pickedTime":null,"pin":{"x":0.43875,"y":0.03303978852336078},"time":"2022-03-12 11:19:48 PM","map":"caelid"}
+{"desc":"Erdtree Avatar","curTime":"2022-03-12 11:20:31 PM","pickedTime":null,"pin":{"x":0.43875,"y":0.03303978852336078},"time":"2022-03-12 11:20:31 PM","map":"caelid"}
+{"desc":"Erdtree Avatar","curTime":"2022-03-12 11:21:46 PM","pickedTime":null,"pin":{"x":0.43875,"y":0.03303978852336078},"time":"2022-03-12 11:21:46 PM","map":"caelid"}
+{"desc":"Erdtree Avatar","curTime":"2022-03-12 11:22:48 PM","pickedTime":null,"pin":{"x":0.43875,"y":0.03303978852336078},"time":"2022-03-12 11:22:48 PM","map":"caelid"}
+{"desc":"Falling","curTime":"2022-03-13 01:39:09 PM","pickedTime":null,"pin":{"x":0.6261666106287681,"y":0.7538134948113879},"time":"2022-03-13 01:39:09 PM","map":"liurnia-4"}
+{"desc":"Omenkiller","curTime":"2022-03-13 01:51:47 PM","pickedTime":null,"pin":{"x":0.47866662188212417,"y":0.5928854871107313},"time":"2022-03-13 01:51:47 PM","map":"liurnia-4"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-13 02:30:34 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:30:34 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-13 02:32:06 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:32:06 PM","map":"caelid-2"}
+{"desc":"Crucible Knight","curTime":"2022-03-13 02:35:39 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:35:39 PM","map":"caelid-2"}
+{"desc":"Crucible Knight","curTime":"2022-03-13 02:39:20 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:39:20 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-13 02:40:55 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:40:55 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-13 02:42:09 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:42:09 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-13 02:43:30 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:43:30 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-13 02:45:15 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:45:15 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-13 02:46:33 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:46:33 PM","map":"caelid-2"}
+{"desc":"Misbegotten Warrior","curTime":"2022-03-13 02:49:35 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:49:35 PM","map":"caelid-2"}
+{"desc":"Crucible Knight","curTime":"2022-03-13 02:54:02 PM","pickedTime":null,"pin":{"x":0.7620832720120795,"y":0.7448944122113852},"time":"2022-03-13 02:54:02 PM","map":"caelid-2"}
+{"desc":"Erdtree Burial Watchdog","curTime":"2022-03-13 03:01:28 PM","pickedTime":null,"pin":{"x":0.49083329270681053,"y":0.10932332820812882},"time":"2022-03-13 03:01:28 PM","map":"caelid"}
+{"desc":"Erdtree Burial Watchdog","curTime":"2022-03-13 03:04:03 PM","pickedTime":null,"pin":{"x":0.49083329270681053,"y":0.10932332820812882},"time":"2022-03-13 03:04:03 PM","map":"caelid"}
+{"desc":"Carian Manor","curTime":"2022-03-13 04:23:05 PM","pickedTime":null,"pin":{"x":0.255,"y":0.26004072802553924},"time":"2022-03-13 04:23:05 PM","map":"carian"}
+{"desc":"Royal Knight Loretta","curTime":"2022-03-13 04:46:43 PM","pickedTime":null,"pin":{"x":0.26,"y":0.1837881837172984},"time":"2022-03-13 04:46:43 PM","map":"carian"}
+{"desc":"Royal Knight Loretta","curTime":"2022-03-13 04:49:28 PM","pickedTime":null,"pin":{"x":0.26,"y":0.1837881837172984},"time":"2022-03-13 04:49:28 PM","map":"carian"}
+{"desc":"Royal Knight Loretta","curTime":"2022-03-13 04:56:30 PM","pickedTime":null,"pin":{"x":0.26,"y":0.1837881837172984},"time":"2022-03-13 04:56:30 PM","map":"carian"}
+{"desc":"Falling","curTime":"2022-03-13 05:30:51 PM","pickedTime":null,"pin":{"x":0.5825,"y":0.8800710434845732},"time":"2022-03-13 05:30:51 PM","map":"siofra"}
+{"desc":"Falling","curTime":"2022-03-13 05:32:19 PM","pickedTime":null,"pin":{"x":0.5825,"y":0.8800710434845732},"time":"2022-03-13 05:32:19 PM","map":"siofra"}
+{"desc":"Minotaur Archers","curTime":"2022-03-13 05:37:54 PM","pickedTime":null,"pin":{"x":0.53,"y":0.7441451290812299},"time":"2022-03-13 05:37:54 PM","map":"siofra"}
+{"desc":"Falling","curTime":"2022-03-13 05:51:46 PM","pickedTime":null,"pin":{"x":0.7375,"y":0.45751874436113615},"time":"2022-03-13 05:51:46 PM","map":"siofra"}
+{"desc":"Minotaurs","curTime":"2022-03-13 05:58:46 PM","pickedTime":null,"pin":{"x":0.65,"y":0.8076757195088795},"time":"2022-03-13 05:58:46 PM","map":"siofra"}
+{"desc":"Ancestor Spirit","curTime":"2022-03-13 06:14:25 PM","pickedTime":null,"pin":{"x":0.5275,"y":0.9598536454169705},"time":"2022-03-13 06:14:25 PM","map":"siofra"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:20:19 PM","pickedTime":null,"pin":{"x":0.8143561412320054,"y":0.36627448630796167},"time":"2022-03-13 08:20:19 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:21:22 PM","pickedTime":null,"pin":{"x":0.8143561412320054,"y":0.36627448630796167},"time":"2022-03-13 08:21:22 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:24:20 PM","pickedTime":null,"pin":{"x":0.8143561412320054,"y":0.36627448630796167},"time":"2022-03-13 08:24:20 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:25:26 PM","pickedTime":null,"pin":{"x":0.8143561412320054,"y":0.36627448630796167},"time":"2022-03-13 08:25:26 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:27:02 PM","pickedTime":null,"pin":{"x":0.8143561412320054,"y":0.36627448630796167},"time":"2022-03-13 08:27:02 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:29:58 PM","pickedTime":null,"pin":{"x":0.8436008906250679,"y":0.22170957125910454},"time":"2022-03-13 08:29:58 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:32:50 PM","pickedTime":null,"pin":{"x":0.8498508911019051,"y":0.38026463937720595},"time":"2022-03-13 08:32:50 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:35:14 PM","pickedTime":null,"pin":{"x":0.8636008921509469,"y":0.29166033660532575},"time":"2022-03-13 08:35:14 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:40:33 PM","pickedTime":null,"pin":{"x":0.8423508905297005,"y":0.20072434165523817},"time":"2022-03-13 08:40:33 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:43:59 PM","pickedTime":null,"pin":{"x":0.8711008927231516,"y":0.2846652600707036},"time":"2022-03-13 08:43:59 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:45:10 PM","pickedTime":null,"pin":{"x":0.8111008881455145,"y":0.16574895898212755},"time":"2022-03-13 08:45:10 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 08:50:38 PM","pickedTime":null,"pin":{"x":0.8373508901482307,"y":0.26134833828862986},"time":"2022-03-13 08:50:38 PM","map":"caelid-2"}
+{"desc":"Starscourge Radahn","curTime":"2022-03-13 09:00:34 PM","pickedTime":null,"pin":{"x":0.8573508916741098,"y":0.27767018353608147},"time":"2022-03-13 09:00:34 PM","map":"caelid-2"}
+{"desc":"Night's cavalry","curTime":"2022-03-13 09:08:53 PM","pickedTime":null,"pin":{"x":0.41235085772330154,"y":0.555141552742759},"time":"2022-03-13 09:08:53 PM","map":"caelid-2"}
+{"desc":"Decaying Ekzykes","curTime":"2022-03-14 07:28:00 PM","pickedTime":null,"pin":{"x":0.36397730743235074,"y":0.5598049370991737},"time":"2022-03-14 07:28:00 PM","map":"caelid-2"}
+{"desc":"Commander O'Neil","curTime":"2022-03-14 07:44:18 PM","pickedTime":null,"pin":{"x":0.4927273172551969,"y":0.3289674114566437},"time":"2022-03-14 07:44:18 PM","map":"caelid-2"}
+{"desc":"Commander O'Neil","curTime":"2022-03-14 07:48:20 PM","pickedTime":null,"pin":{"x":0.47772731611078767,"y":0.3033187974963626},"time":"2022-03-14 07:48:20 PM","map":"caelid-2"}
+{"desc":"Commander O'Neil","curTime":"2022-03-14 07:52:48 PM","pickedTime":null,"pin":{"x":0.47772731611078767,"y":0.3033187974963626},"time":"2022-03-14 07:52:48 PM","map":"caelid-2"}
+{"desc":"Commander O'Neil","curTime":"2022-03-14 07:55:40 PM","pickedTime":null,"pin":{"x":0.47772731611078767,"y":0.3033187974963626},"time":"2022-03-14 07:55:40 PM","map":"caelid-2"}
+{"desc":"Commander O'Neil","curTime":"2022-03-14 08:01:13 PM","pickedTime":null,"pin":{"x":0.47772731611078767,"y":0.3033187974963626},"time":"2022-03-14 08:01:13 PM","map":"caelid-2"}
+{"desc":"Skeletons","curTime":"2022-03-21 11:15:20 PM","pickedTime":null,"pin":{"x":0.5314772796630859,"y":0.024376614770346028},"time":"2022-03-21 11:15:20 PM","map":"caelid-2"}
+{"desc":"Falling","curTime":"2022-03-23 10:16:52 PM","pickedTime":null,"pin":{"x":0.41469701116157615,"y":0.5876889269479422},"time":"2022-03-23 10:16:52 PM","map":"dragonbarrow"}
+{"desc":"Falling","curTime":"2022-03-24 10:19:06 PM","pickedTime":null,"pin":{"x":0.415,"y":0.5895771187927706},"time":"2022-03-24 10:19:06 PM","map":"dragonbarrow"}
+{"desc":"Falling","curTime":"2022-03-24 10:21:36 PM","pickedTime":null,"pin":{"x":0.4412499663352992,"y":0.5968165733458577},"time":"2022-03-24 10:21:36 PM","map":"dragonbarrow"}
+{"desc":"Impaled","curTime":"2022-03-24 10:23:04 PM","pickedTime":null,"pin":{"x":0.4299999862670909,"y":0.5968165635285019},"time":"2022-03-24 10:23:04 PM","map":"dragonbarrow"}
+{"desc":"Falling","curTime":"2022-03-24 10:25:36 PM","pickedTime":null,"pin":{"x":0.4336666539255788,"y":0.59706613142205},"time":"2022-03-24 10:25:36 PM","map":"dragonbarrow"}
+{"desc":"Falling","curTime":"2022-03-24 10:32:35 PM","pickedTime":null,"pin":{"x":0.4374166536394765,"y":0.5867094993734028},"time":"2022-03-24 10:32:35 PM","map":"dragonbarrow"}
+{"desc":"Fallingstar Beast","curTime":"2022-03-24 11:01:34 PM","pickedTime":null,"pin":{"x":0.40125,"y":0.8403813534538223},"time":"2022-03-24 11:01:34 PM","map":"dragonbarrow"}
+{"desc":"Fallingstar Beast","curTime":"2022-03-24 11:05:50 PM","pickedTime":null,"pin":{"x":0.40125,"y":0.8403813534538223},"time":"2022-03-24 11:05:50 PM","map":"dragonbarrow"}
+{"desc":"Fallingstar Beast","curTime":"2022-03-24 11:12:00 PM","pickedTime":null,"pin":{"x":0.40125,"y":0.8403813534538223},"time":"2022-03-24 11:12:00 PM","map":"dragonbarrow"}
+{"desc":"T-Rex Dude","curTime":"2022-03-24 11:29:11 PM","pickedTime":null,"pin":{"x":0.27,"y":0.6513423407615371},"time":"2022-03-24 11:29:11 PM","map":"dragonbarrow"}
+{"desc":"Abandoned Cave Scarlet Rot","curTime":"2022-03-24 11:35:32 PM","pickedTime":null,"pin":{"x":0.3275,"y":0.8834298414926596},"time":"2022-03-24 11:35:32 PM","map":"dragonbarrow"}
+{"desc":"Abandoned Cave Scarlet Rot","curTime":"2022-03-24 11:36:55 PM","pickedTime":null,"pin":{"x":0.3275,"y":0.8834298414926596},"time":"2022-03-24 11:36:55 PM","map":"dragonbarrow"}
+{"desc":"Cleanrot Knight","curTime":"2022-03-24 11:40:13 PM","pickedTime":null,"pin":{"x":0.3275,"y":0.8834298414926596},"time":"2022-03-24 11:40:13 PM","map":"dragonbarrow"}
+{"desc":"Falling","curTime":"2022-03-24 11:41:43 PM","pickedTime":null,"pin":{"x":0.29,"y":0.7299526232672399},"time":"2022-03-24 11:41:43 PM","map":"dragonbarrow"}
+{"desc":"Elevator Falling","curTime":"2022-04-02 11:23:52 AM","pickedTime":null,"pin":{"x":0.45291666030883787,"y":0.09324115620016538},"time":"2022-04-02 11:23:52 AM","map":"liurnia-1"}
+{"desc":"Horse Falling","curTime":"2022-04-02 11:53:25 AM","pickedTime":null,"pin":{"x":0.6441666603088378,"y":0.7322964480597851},"time":"2022-04-02 11:53:25 AM","map":"liurnia-3"}
+{"desc":"Horse Falling","curTime":"2022-04-02 11:54:14 AM","pickedTime":null,"pin":{"x":0.6441666603088378,"y":0.7322964480597851},"time":"2022-04-02 11:54:14 AM","map":"liurnia-3"}
+{"desc":"Horse Falling","curTime":"2022-04-02 11:55:04 AM","pickedTime":null,"pin":{"x":0.6441666603088378,"y":0.7322964480597851},"time":"2022-04-02 11:55:04 AM","map":"liurnia-3"}
+{"desc":"Horse Falling","curTime":"2022-04-02 11:56:09 AM","pickedTime":null,"pin":{"x":0.6441666603088378,"y":0.7322964480597851},"time":"2022-04-02 11:56:09 AM","map":"liurnia-3"}
+{"desc":"Horse Falling","curTime":"2022-04-02 11:58:01 AM","pickedTime":null,"pin":{"x":0.6441666603088378,"y":0.7322964480597851},"time":"2022-04-02 11:58:01 AM","map":"liurnia-3"}
+{"desc":"Horse Falling","curTime":"2022-04-02 11:58:55 AM","pickedTime":null,"pin":{"x":0.6441666603088378,"y":0.7322964480597851},"time":"2022-04-02 11:58:55 AM","map":"liurnia-3"}
+{"desc":"Horse Falling","curTime":"2022-04-02 12:00:47 PM","pickedTime":null,"pin":{"x":0.6516666603088379,"y":0.7322964480597851},"time":"2022-04-02 12:00:47 PM","map":"liurnia-3"}
+{"desc":"Festering Fingerprint Vyke","curTime":"2022-04-02 12:20:00 PM","pickedTime":null,"pin":{"x":0.6416666603088379,"y":0.5268466112430121},"time":"2022-04-02 12:20:00 PM","map":"liurnia-3"}
+{"desc":"Festering Fingerprint Vyke","curTime":"2022-04-02 12:26:43 PM","pickedTime":null,"pin":{"x":0.6454166603088379,"y":0.4719243776385282},"time":"2022-04-02 12:26:43 PM","map":"liurnia-3"}
+{"desc":"Festering Fingerprint Vyke","curTime":"2022-04-02 12:29:03 PM","pickedTime":null,"pin":{"x":0.6429166603088379,"y":0.4678560640381961},"time":"2022-04-02 12:29:03 PM","map":"liurnia-3"}
+{"desc":"Festering Fingerprint Vyke","curTime":"2022-04-02 12:31:05 PM","pickedTime":null,"pin":{"x":0.6504166603088379,"y":0.4719243776385282},"time":"2022-04-02 12:31:05 PM","map":"liurnia-3"}
+{"desc":"Falling","curTime":"2022-04-02 12:44:26 PM","pickedTime":null,"pin":{"x":0.7241666603088379,"y":0.2298597184187659},"time":"2022-04-02 12:44:26 PM","map":"liurnia-3"}
+{"desc":"Magma Wyrm Makar","curTime":"2022-04-02 03:46:29 PM","pickedTime":null,"pin":{"x":0.5475,"y":0.18878476266578167},"time":"2022-04-02 03:46:29 PM","map":"carian"}
+{"desc":"Dragon Vansseax","curTime":"2022-04-02 07:18:39 PM","pickedTime":null,"pin":{"x":0.5854166603088379,"y":0.055397107795850546},"time":"2022-04-02 07:18:39 PM","map":"carian"}
+{"desc":"Wyndham Catacombs","curTime":"2022-04-02 07:48:21 PM","pickedTime":null,"pin":{"x":0.2498863983154297,"y":0.5257549458465435},"time":"2022-04-02 07:48:21 PM","map":"altus-plateau"}
+{"desc":"Wyndham Catacombs","curTime":"2022-04-02 07:53:29 PM","pickedTime":null,"pin":{"x":0.2673863983154297,"y":0.5316654488399442},"time":"2022-04-02 07:53:29 PM","map":"altus-plateau"}
+{"desc":"Wyndham Catacombs","curTime":"2022-04-02 07:58:02 PM","pickedTime":null,"pin":{"x":0.2548863983154297,"y":0.5191279963843383},"time":"2022-04-02 07:58:02 PM","map":"altus-plateau"}
+{"desc":"Wyndham Catacombs","curTime":"2022-04-02 08:06:49 PM","pickedTime":null,"pin":{"x":0.2686363983154297,"y":0.5099936045308084},"time":"2022-04-02 08:06:49 PM","map":"altus-plateau"}
+{"desc":"Wyndham Catacombs","curTime":"2022-04-02 08:13:59 PM","pickedTime":null,"pin":{"x":0.25863639831542967,"y":0.5099936045308084},"time":"2022-04-02 08:13:59 PM","map":"altus-plateau"}
+{"desc":"Wyndham Catacombs","curTime":"2022-04-02 08:18:52 PM","pickedTime":null,"pin":{"x":0.25863639831542967,"y":0.5099936045308084},"time":"2022-04-02 08:18:52 PM","map":"altus-plateau"}
+{"desc":"The Shaded Castle","curTime":"2022-04-02 08:33:30 PM","pickedTime":null,"pin":{"x":0.34488639831542967,"y":0.21446845486077604},"time":"2022-04-02 08:33:30 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 08:58:06 PM","pickedTime":null,"pin":{"x":0.3115530633203936,"y":0.22988447557968886},"time":"2022-04-02 08:58:06 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 08:59:23 PM","pickedTime":null,"pin":{"x":0.3115530633203936,"y":0.22988447557968886},"time":"2022-04-02 08:59:23 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:01:07 PM","pickedTime":null,"pin":{"x":0.3115530633203936,"y":0.22988447557968886},"time":"2022-04-02 09:01:07 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:02:06 PM","pickedTime":null,"pin":{"x":0.3115530633203936,"y":0.22988447557968886},"time":"2022-04-02 09:02:06 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:03:06 PM","pickedTime":null,"pin":{"x":0.3115530633203936,"y":0.22988447557968886},"time":"2022-04-02 09:03:06 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:04:56 PM","pickedTime":null,"pin":{"x":0.3115530633203936,"y":0.22988447557968886},"time":"2022-04-02 09:04:56 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:09:24 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:09:24 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:10:19 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:10:19 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:11:36 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:11:36 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:12:14 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:12:14 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:15:18 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:15:18 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:16:22 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:16:22 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:17:31 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:17:31 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:19:08 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:19:08 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:20:58 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:20:58 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:23:54 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:23:54 PM","map":"altus-plateau"}
+{"desc":"Elemer of the Briar","curTime":"2022-04-02 09:24:43 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:24:43 PM","map":"altus-plateau"}
+{"desc":"Revenant","curTime":"2022-04-02 09:30:52 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:30:52 PM","map":"altus-plateau"}
+{"desc":"Revenant","curTime":"2022-04-02 09:32:14 PM","pickedTime":null,"pin":{"x":0.324053064274068,"y":0.21883966207560365},"time":"2022-04-02 09:32:14 PM","map":"altus-plateau"}
+{"desc":"Falling","curTime":"2022-04-02 09:40:03 PM","pickedTime":null,"pin":{"x":0.3128030634157611,"y":0.5313173372127064},"time":"2022-04-02 09:40:03 PM","map":"altus-plateau"}
+{"desc":"Mobbed","curTime":"2022-04-02 09:46:27 PM","pickedTime":null,"pin":{"x":0.2653030597917984,"y":0.8465412448027899},"time":"2022-04-02 09:46:27 PM","map":"altus-plateau"}
+{"desc":"War-Dead Catacombs","curTime":"2022-04-03 01:54:09 PM","pickedTime":null,"pin":{"x":0.7761743756236553,"y":0.6476888264184257},"time":"2022-04-03 01:54:09 PM","map":"dragonbarrow"}
+{"desc":"Death Blighted","curTime":"2022-04-03 02:32:22 PM","pickedTime":null,"pin":{"x":0.5811363983154297,"y":0.5040831015374078},"time":"2022-04-03 02:32:22 PM","map":"altus-plateau"}
+{"desc":"Falling in Altus Tunnel","curTime":"2022-04-03 02:54:01 PM","pickedTime":null,"pin":{"x":0.625625,"y":0.6560566415268585},"time":"2022-04-03 02:54:01 PM","map":"altus-plateau"}
+{"desc":"Falling in Nokron","curTime":"2022-04-03 03:52:20 PM","pickedTime":null,"pin":{"x":0.17,"y":0.9426104621635348},"time":"2022-04-03 03:52:20 PM","map":"siofra"}
+{"desc":"Falling","curTime":"2022-04-03 03:52:57 PM","pickedTime":null,"pin":{"x":0.760625,"y":0.8502192771855693},"time":"2022-04-03 03:52:57 PM","map":"limgrave"}
+{"desc":"Minotaurs","curTime":"2022-04-03 04:08:54 PM","pickedTime":null,"pin":{"x":0.46,"y":0.7003093402280807},"time":"2022-04-03 04:08:54 PM","map":"siofra"}
+{"desc":"Regal Ancestor Spirit","curTime":"2022-04-05 09:43:08 PM","pickedTime":null,"pin":{"x":0.4825,"y":0.6072302507040953},"time":"2022-04-05 09:43:08 PM","map":"siofra"}
+{"desc":"Siofra Aquaducts","curTime":"2022-04-05 09:55:59 PM","pickedTime":null,"pin":{"x":0.5198213848250286,"y":0.5183758426452082},"time":"2022-04-05 09:55:59 PM","map":"siofra"}
+{"desc":"Crucible Spear Knight","curTime":"2022-04-05 10:07:12 PM","pickedTime":null,"pin":{"x":0.5425,"y":0.49198947319820857},"time":"2022-04-05 10:07:12 PM","map":"siofra"}
+{"desc":"Ancient Gargoyle","curTime":"2022-04-05 10:17:34 PM","pickedTime":null,"pin":{"x":0.48875,"y":0.33538021145943947},"time":"2022-04-05 10:17:34 PM","map":"siofra"}
+{"desc":"Valiant Gargoyle","curTime":"2022-04-05 10:19:40 PM","pickedTime":null,"pin":{"x":0.5202777767181397,"y":0.3787205626370741},"time":"2022-04-05 10:19:40 PM","map":"siofra"}
+{"desc":"Valiant Gargoyle","curTime":"2022-04-05 10:24:16 PM","pickedTime":null,"pin":{"x":0.5152777767181397,"y":0.38807776036667974},"time":"2022-04-05 10:24:16 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 10:28:51 PM","pickedTime":null,"pin":{"x":0.48902777671813963,"y":0.3787205626370741},"time":"2022-04-05 10:28:51 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 10:31:44 PM","pickedTime":null,"pin":{"x":0.5002777767181397,"y":0.3619760976093191},"time":"2022-04-05 10:31:44 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 10:36:57 PM","pickedTime":null,"pin":{"x":0.5002777767181397,"y":0.3619760976093191},"time":"2022-04-05 10:36:57 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 10:44:59 PM","pickedTime":null,"pin":{"x":0.5002777767181397,"y":0.3619760976093191},"time":"2022-04-05 10:44:59 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 10:47:42 PM","pickedTime":null,"pin":{"x":0.5165277767181397,"y":0.3826604460441373},"time":"2022-04-05 10:47:42 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 10:52:59 PM","pickedTime":null,"pin":{"x":0.5240277767181396,"y":0.38807776036667974},"time":"2022-04-05 10:52:59 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 10:57:35 PM","pickedTime":null,"pin":{"x":0.5377777767181396,"y":0.38069049306853037},"time":"2022-04-05 10:57:35 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 11:02:17 PM","pickedTime":null,"pin":{"x":0.5177777767181396,"y":0.38069049306853037},"time":"2022-04-05 11:02:17 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 11:06:41 PM","pickedTime":null,"pin":{"x":0.5340277767181396,"y":0.3762581777779421},"time":"2022-04-05 11:06:41 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 11:10:03 PM","pickedTime":null,"pin":{"x":0.5277777767181396,"y":0.39103266728593944},"time":"2022-04-05 11:10:03 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 11:16:52 PM","pickedTime":null,"pin":{"x":0.5115277767181396,"y":0.373303225770381},"time":"2022-04-05 11:16:52 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 11:19:07 PM","pickedTime":null,"pin":{"x":0.5115277767181396,"y":0.373303225770381},"time":"2022-04-05 11:19:07 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 11:24:32 PM","pickedTime":null,"pin":{"x":0.5240277767181396,"y":0.36345355106894894},"time":"2022-04-05 11:24:32 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 11:27:54 PM","pickedTime":null,"pin":{"x":0.5240277767181396,"y":0.36345355106894894},"time":"2022-04-05 11:27:54 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 11:29:57 PM","pickedTime":null,"pin":{"x":0.5240277767181396,"y":0.36345355106894894},"time":"2022-04-05 11:29:57 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 11:31:20 PM","pickedTime":null,"pin":{"x":0.5190277767181396,"y":0.3718257723107511},"time":"2022-04-05 11:31:20 PM","map":"siofra"}
+{"desc":"Valiant Gargoyles","curTime":"2022-04-05 11:34:17 PM","pickedTime":null,"pin":{"x":0.5340277767181396,"y":0.35852869117408226},"time":"2022-04-05 11:34:17 PM","map":"siofra"}
+{"desc":"Big Ants","curTime":"2022-04-06 07:48:33 PM","pickedTime":null,"pin":{"x":0.54875,"y":0.4879706863554803},"time":"2022-04-06 07:48:33 PM","map":"deeproot-depths"}
+{"desc":"Sanguine Noble","curTime":"2022-04-06 08:00:16 PM","pickedTime":null,"pin":{"x":0.46875,"y":0.4297050273467757},"time":"2022-04-06 08:00:16 PM","map":"altus-plateau"}
+{"desc":"Falling","curTime":"2022-04-06 08:20:53 PM","pickedTime":null,"pin":{"x":0.29416666030883787,"y":0.8005253091674602},"time":"2022-04-06 08:20:53 PM","map":"altus-plateau"}
+{"desc":"Gelmir Hero's Crypt","curTime":"2022-04-07 09:56:16 PM","pickedTime":null,"pin":{"x":0.18416666030883788,"y":0.45575434250948943},"time":"2022-04-07 09:56:16 PM","map":"altus-plateau"}
+{"desc":"Gelmir Hero's Crypt","curTime":"2022-04-07 09:57:19 PM","pickedTime":null,"pin":{"x":0.18416666030883788,"y":0.45575434250948943},"time":"2022-04-07 09:57:19 PM","map":"altus-plateau"}
+{"desc":"Gelmir Hero's Crypt Roller","curTime":"2022-04-07 09:58:28 PM","pickedTime":null,"pin":{"x":0.18416666030883788,"y":0.45575434250948943},"time":"2022-04-07 09:58:28 PM","map":"altus-plateau"}
+{"desc":"Gelmir Hero's Crypt Roller","curTime":"2022-04-07 10:07:20 PM","pickedTime":null,"pin":{"x":0.1716666603088379,"y":0.5680511716495142},"time":"2022-04-07 10:07:20 PM","map":"altus-plateau"}
+{"desc":"Gelmir Hero's Crypt Roller","curTime":"2022-04-07 10:08:12 PM","pickedTime":null,"pin":{"x":0.1891666603088379,"y":0.49909697831792005},"time":"2022-04-07 10:08:12 PM","map":"altus-plateau"}
+{"desc":"Gelmir Hero's Crypt Roller","curTime":"2022-04-07 10:09:30 PM","pickedTime":null,"pin":{"x":0.1891666603088379,"y":0.49909697831792005},"time":"2022-04-07 10:09:30 PM","map":"altus-plateau"}
+{"desc":"Full-grown Fallingstar Beast","curTime":"2022-04-07 11:16:47 PM","pickedTime":null,"pin":{"x":0.10125,"y":0.24035461675584252},"time":"2022-04-07 11:16:47 PM","map":"altus-plateau"}
+{"desc":"Full-grown Fallingstar Beast","curTime":"2022-04-07 11:18:48 PM","pickedTime":null,"pin":{"x":0.09625,"y":0.23969789011158943},"time":"2022-04-07 11:18:48 PM","map":"altus-plateau"}
+{"desc":"Full-grown Fallingstar Beast","curTime":"2022-04-07 11:23:29 PM","pickedTime":null,"pin":{"x":0.0975,"y":0.23247413751794604},"time":"2022-04-07 11:23:29 PM","map":"altus-plateau"}
+{"desc":"Full-grown Fallingstar Beast","curTime":"2022-04-07 11:27:57 PM","pickedTime":null,"pin":{"x":0.1025,"y":0.21999670704766952},"time":"2022-04-07 11:27:57 PM","map":"altus-plateau"}
+{"desc":"Ulcerated Tree Spirit","curTime":"2022-04-08 11:24:14 PM","pickedTime":null,"pin":{"x":0.45625,"y":0.2779127537680716},"time":"2022-04-08 11:24:14 PM","map":"mt-gelmir"}
+{"desc":"Ulcerated Tree Spirit","curTime":"2022-04-08 11:26:55 PM","pickedTime":null,"pin":{"x":0.46125,"y":0.28386761434112345},"time":"2022-04-08 11:26:55 PM","map":"mt-gelmir"}
+{"desc":"Cuckoo Spearman","curTime":"2022-04-08 11:32:50 PM","pickedTime":null,"pin":{"x":0.51125,"y":0.4439986888027425},"time":"2022-04-08 11:32:50 PM","map":"mt-gelmir"}
+{"desc":"Hermit Village","curTime":"2022-04-08 11:52:32 PM","pickedTime":null,"pin":{"x":0.4737499638557462,"y":0.5398090707179142},"time":"2022-04-08 11:52:32 PM","map":"mt-gelmir"}
+{"desc":"Corrupted Tree Sentinel","curTime":"2022-04-09 05:07:06 PM","pickedTime":null,"pin":{"x":0.7185832810529112,"y":0.3043414454639325},"time":"2022-04-09 05:07:06 PM","map":"leyndell"}
+{"desc":"Draconic Tree Sentinel","curTime":"2022-04-09 05:11:23 PM","pickedTime":null,"pin":{"x":0.7173332811482788,"y":0.29263602071048944},"time":"2022-04-09 05:11:23 PM","map":"leyndell"}
+{"desc":"Rogue","curTime":"2022-04-09 05:33:36 PM","pickedTime":null,"pin":{"x":0.6749999675750757,"y":0.5967545183697177},"time":"2022-04-09 05:33:36 PM","map":"leyndell"}
+{"desc":"Lightning Knights","curTime":"2022-04-09 11:24:11 PM","pickedTime":null,"pin":{"x":0.5816666793823242,"y":0.5364052201194954},"time":"2022-04-09 11:24:11 PM","map":"leyndell"}
+{"desc":"Lightning Knights","curTime":"2022-04-09 11:25:39 PM","pickedTime":null,"pin":{"x":0.586249955272678,"y":0.5406798842438387},"time":"2022-04-09 11:25:39 PM","map":"leyndell"}
+{"desc":"Godfrey, First Elden Lord","curTime":"2022-04-09 11:48:38 PM","pickedTime":null,"pin":{"x":0.6337499897956856,"y":0.7012092218809576},"time":"2022-04-09 11:48:38 PM","map":"leyndell"}
+{"desc":"Shadow","curTime":"2022-04-10 12:07:05 AM","pickedTime":null,"pin":{"x":0.6649999683380151,"y":0.645248486987485},"time":"2022-04-10 12:07:05 AM","map":"leyndell"}
+{"desc":"Morgott, the Omen King","curTime":"2022-04-10 12:14:02 AM","pickedTime":null,"pin":{"x":0.7304166793823242,"y":0.7268546453730494},"time":"2022-04-10 12:14:02 AM","map":"leyndell"}
+{"desc":"Morgott, the Omen King","curTime":"2022-04-10 12:17:04 AM","pickedTime":null,"pin":{"x":0.7304166793823242,"y":0.7268546453730494},"time":"2022-04-10 12:17:04 AM","map":"leyndell"}
+{"desc":"Morgott, the Omen King","curTime":"2022-04-10 12:22:47 AM","pickedTime":null,"pin":{"x":0.7304166793823242,"y":0.7268546453730494},"time":"2022-04-10 12:22:47 AM","map":"leyndell"}
+{"desc":"Morgott, the Omen King","curTime":"2022-04-10 12:43:02 AM","pickedTime":null,"pin":{"x":0.73125,"y":0.7151450163607155},"time":"2022-04-10 12:43:02 AM","map":"leyndell"}
+{"desc":"Morgott, the Omen King, Tied","curTime":"2022-04-10 12:47:37 AM","pickedTime":null,"pin":{"x":0.72,"y":0.7151450163607155},"time":"2022-04-10 12:47:37 AM","map":"leyndell"}
+{"desc":"Upside-down Tower","curTime":"2022-04-10 12:59:56 AM","pickedTime":null,"pin":{"x":0.825,"y":0.5946634968423335},"time":"2022-04-10 12:59:56 AM","map":"liurnia-2"}
+{"desc":"Angry Wolf Guy","curTime":"2022-04-10 11:50:01 AM","pickedTime":null,"pin":{"x":0.7541666603088379,"y":0.5111393339915081},"time":"2022-04-10 11:50:01 AM","map":"leyndell"}
+{"desc":"Fell off the bridge","curTime":"2022-04-15 08:08:19 PM","pickedTime":null,"pin":{"x":0.6154166603088379,"y":0.20207847737359638},"time":"2022-04-15 08:08:19 PM","map":"giants-mountain-1"}
+{"desc":"War-Dead Catacombs","curTime":"2022-04-15 08:44:48 PM","pickedTime":null,"pin":{"x":0.7775,"y":0.6026788325437211},"time":"2022-04-15 08:44:48 PM","map":"dragonbarrow"}
+{"desc":"War-Dead Catacombs","curTime":"2022-04-15 08:45:57 PM","pickedTime":null,"pin":{"x":0.7825,"y":0.6026788325437211},"time":"2022-04-15 08:45:57 PM","map":"dragonbarrow"}
+{"desc":"War-Dead Catacombs","curTime":"2022-04-15 08:48:56 PM","pickedTime":null,"pin":{"x":0.78625,"y":0.606422179329707},"time":"2022-04-15 08:48:56 PM","map":"dragonbarrow"}
+{"desc":"Putrid Tree Spirit","curTime":"2022-04-15 08:56:33 PM","pickedTime":null,"pin":{"x":0.79625,"y":0.5970638123647424},"time":"2022-04-15 08:56:33 PM","map":"dragonbarrow"}
+{"desc":"Death Rite Bird","curTime":"2022-04-15 11:56:46 PM","pickedTime":null,"pin":{"x":0.4408333206176758,"y":0.29820975453240284},"time":"2022-04-15 11:56:46 PM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-15 11:59:02 PM","pickedTime":null,"pin":{"x":0.4470833206176758,"y":0.30213356709203976},"time":"2022-04-15 11:59:02 PM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-16 12:01:09 AM","pickedTime":null,"pin":{"x":0.4370833206176758,"y":0.30409547337185816},"time":"2022-04-16 12:01:09 AM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-16 12:03:20 AM","pickedTime":null,"pin":{"x":0.4370833206176758,"y":0.30409547337185816},"time":"2022-04-16 12:03:20 AM","map":"giants-mountain-2"}
+{"desc":"Erdtree Avatars","curTime":"2022-04-16 12:06:38 AM","pickedTime":null,"pin":{"x":0.6295833206176757,"y":0.4473146317986043},"time":"2022-04-16 12:06:38 AM","map":"giants-mountain-2"}
+{"desc":"Erdtree Avatars","curTime":"2022-04-16 12:12:19 AM","pickedTime":null,"pin":{"x":0.6220833206176758,"y":0.4473146317986043},"time":"2022-04-16 12:12:19 AM","map":"giants-mountain-2"}
+{"desc":"Erdtree Avatars","curTime":"2022-04-16 12:14:56 AM","pickedTime":null,"pin":{"x":0.6220833206176758,"y":0.4473146317986043},"time":"2022-04-16 12:14:56 AM","map":"giants-mountain-2"}
+{"desc":"Erdtree Avatars","curTime":"2022-04-16 12:19:35 AM","pickedTime":null,"pin":{"x":0.6183333206176758,"y":0.46889560087660714},"time":"2022-04-16 12:19:35 AM","map":"giants-mountain-2"}
+{"desc":"Erdtree Avatars","curTime":"2022-04-16 12:21:20 AM","pickedTime":null,"pin":{"x":0.6220833206176758,"y":0.4512384443582412},"time":"2022-04-16 12:21:20 AM","map":"giants-mountain-2"}
+{"desc":"Erdtree Avatars","curTime":"2022-04-16 12:26:08 AM","pickedTime":null,"pin":{"x":0.6283333206176758,"y":0.4512384443582412},"time":"2022-04-16 12:26:08 AM","map":"giants-mountain-2"}
+{"desc":"Erdtree Avatars","curTime":"2022-04-16 12:28:08 AM","pickedTime":null,"pin":{"x":0.6333333206176758,"y":0.4669336945967887},"time":"2022-04-16 12:28:08 AM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-16 12:53:20 AM","pickedTime":null,"pin":{"x":0.42583332061767576,"y":0.3649145680462298},"time":"2022-04-16 12:53:20 AM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-16 12:54:36 AM","pickedTime":null,"pin":{"x":0.4320833206176758,"y":0.3708002868856851},"time":"2022-04-16 12:54:36 AM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-16 12:57:29 AM","pickedTime":null,"pin":{"x":0.4320833206176758,"y":0.3708002868856851},"time":"2022-04-16 12:57:29 AM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-16 12:58:30 AM","pickedTime":null,"pin":{"x":0.42333332061767576,"y":0.37472409944532203},"time":"2022-04-16 12:58:30 AM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-16 12:59:44 AM","pickedTime":null,"pin":{"x":0.42833332061767576,"y":0.38060981828477736},"time":"2022-04-16 12:59:44 AM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-16 01:02:55 AM","pickedTime":null,"pin":{"x":0.43833332061767577,"y":0.36687647432604825},"time":"2022-04-16 01:02:55 AM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-16 01:03:39 AM","pickedTime":null,"pin":{"x":0.42583332061767576,"y":0.3649145680462298},"time":"2022-04-16 01:03:39 AM","map":"giants-mountain-2"}
+{"desc":"Death Rite Bird","curTime":"2022-04-16 01:05:24 AM","pickedTime":null,"pin":{"x":0.4170833206176758,"y":0.3688383806058667},"time":"2022-04-16 01:05:24 AM","map":"giants-mountain-2"}
+{"desc":"Dogs","curTime":"2022-04-16 01:37:13 PM","pickedTime":null,"pin":{"x":0.53375,"y":0.24720272217283346},"time":"2022-04-16 01:37:13 PM","map":"giants-mountain-2"}
+{"desc":"Ghost Knight","curTime":"2022-04-16 01:45:32 PM","pickedTime":null,"pin":{"x":0.5575,"y":0.2118880475767144},"time":"2022-04-16 01:45:32 PM","map":"giants-mountain-2"}
+{"desc":"Ghost Knight","curTime":"2022-04-16 01:54:15 PM","pickedTime":null,"pin":{"x":0.559821381773271,"y":0.19366590313991147},"time":"2022-04-16 01:54:15 PM","map":"giants-mountain-2"}
+{"desc":"Ghost Knight","curTime":"2022-04-16 01:56:37 PM","pickedTime":null,"pin":{"x":0.559821381773271,"y":0.19366590313991147},"time":"2022-04-16 01:56:37 PM","map":"giants-mountain-2"}
+{"desc":"Ghost Knight","curTime":"2022-04-16 02:01:58 PM","pickedTime":null,"pin":{"x":0.575,"y":0.22692483888740073},"time":"2022-04-16 02:01:58 PM","map":"giants-mountain-2"}
+{"desc":"Ghost Knight","curTime":"2022-04-16 02:18:52 PM","pickedTime":null,"pin":{"x":0.57375,"y":0.21188479990190517},"time":"2022-04-16 02:18:52 PM","map":"giants-mountain-2"}
+{"desc":"Commander Niall","curTime":"2022-04-16 02:21:15 PM","pickedTime":null,"pin":{"x":0.5675,"y":0.1608754962218169},"time":"2022-04-16 02:21:15 PM","map":"giants-mountain-2"}
+{"desc":"Commander Niall","curTime":"2022-04-16 02:24:23 PM","pickedTime":null,"pin":{"x":0.565,"y":0.16479928881259293},"time":"2022-04-16 02:24:23 PM","map":"giants-mountain-2"}
+{"desc":"Commander Niall","curTime":"2022-04-16 02:26:18 PM","pickedTime":null,"pin":{"x":0.57125,"y":0.16283739251720492},"time":"2022-04-16 02:26:18 PM","map":"giants-mountain-2"}
+{"desc":"Commander Niall","curTime":"2022-04-16 02:32:00 PM","pickedTime":null,"pin":{"x":0.5625,"y":0.16479928881259293},"time":"2022-04-16 02:32:00 PM","map":"giants-mountain-2"}
+{"desc":"Commander Niall","curTime":"2022-04-16 02:33:54 PM","pickedTime":null,"pin":{"x":0.5575,"y":0.1589135999264289},"time":"2022-04-16 02:33:54 PM","map":"giants-mountain-2"}
+{"desc":"Commander Niall","curTime":"2022-04-16 02:41:09 PM","pickedTime":null,"pin":{"x":0.56375,"y":0.16872308140336895},"time":"2022-04-16 02:41:09 PM","map":"giants-mountain-2"}
+{"desc":"Commander Niall","curTime":"2022-04-16 02:42:36 PM","pickedTime":null,"pin":{"x":0.5675,"y":0.16872308140336895},"time":"2022-04-16 02:42:36 PM","map":"giants-mountain-2"}
+{"desc":"Rats","curTime":"2022-04-16 02:53:19 PM","pickedTime":null,"pin":{"x":0.55625,"y":0.2530846221050534},"time":"2022-04-16 02:53:19 PM","map":"giants-mountain-2"}
+{"desc":"Ghost Knight","curTime":"2022-04-16 02:56:30 PM","pickedTime":null,"pin":{"x":0.5375,"y":0.26027688172654606},"time":"2022-04-16 02:56:30 PM","map":"giants-mountain-2"}
+{"desc":"Rykard","curTime":"2022-04-16 03:15:38 PM","pickedTime":null,"pin":{"x":0.40625,"y":0.4155457264898497},"time":"2022-04-16 03:15:38 PM","map":"mt-gelmir"}
+{"desc":"God-Devouring Serpent","curTime":"2022-04-16 03:20:46 PM","pickedTime":null,"pin":{"x":0.40625,"y":0.4155457264898497},"time":"2022-04-16 03:20:46 PM","map":"mt-gelmir"}
+{"desc":"Rykard","curTime":"2022-04-16 03:28:54 PM","pickedTime":null,"pin":{"x":0.41125,"y":0.41753081758819305},"time":"2022-04-16 03:28:54 PM","map":"mt-gelmir"}
+{"desc":"Rykard","curTime":"2022-04-16 03:33:54 PM","pickedTime":null,"pin":{"x":0.41625,"y":0.4274562730799099},"time":"2022-04-16 03:33:54 PM","map":"mt-gelmir"}
+{"desc":"Chainsaw Boy","curTime":"2022-04-16 04:38:43 PM","pickedTime":null,"pin":{"x":0.3641666665673256,"y":0.4254711819815665},"time":"2022-04-16 04:38:43 PM","map":"mt-gelmir"}
+{"desc":"Godskin Apostle","curTime":"2022-04-16 10:14:01 PM","pickedTime":null,"pin":{"x":0.7533333396911621,"y":0.42769119020417196},"time":"2022-04-16 10:14:01 PM","map":"giants-mountain-2"}
+{"desc":"Godskin Noble","curTime":"2022-04-16 10:17:43 PM","pickedTime":null,"pin":{"x":0.7533333396911621,"y":0.42769119020417196},"time":"2022-04-16 10:17:43 PM","map":"giants-mountain-2"}
+{"desc":"Godskin Noble","curTime":"2022-04-16 10:26:09 PM","pickedTime":null,"pin":{"x":0.7533333396911621,"y":0.42769119020417196},"time":"2022-04-16 10:26:09 PM","map":"giants-mountain-2"}
+{"desc":"Godskin Noble","curTime":"2022-04-16 10:33:34 PM","pickedTime":null,"pin":{"x":0.7533333396911621,"y":0.42769119020417196},"time":"2022-04-16 10:33:34 PM","map":"giants-mountain-2"}
+{"desc":"Godskin Noble","curTime":"2022-04-16 10:40:39 PM","pickedTime":null,"pin":{"x":0.755,"y":0.42965307639776906},"time":"2022-04-16 10:40:39 PM","map":"giants-mountain-2"}
+{"desc":"Godskin Noble","curTime":"2022-04-16 10:46:49 PM","pickedTime":null,"pin":{"x":0.755,"y":0.42965307639776906},"time":"2022-04-16 10:46:49 PM","map":"giants-mountain-2"}
+{"desc":"Godskin Apostle","curTime":"2022-04-16 10:51:31 PM","pickedTime":null,"pin":{"x":0.755,"y":0.42965307639776906},"time":"2022-04-16 10:51:31 PM","map":"giants-mountain-2"}
+{"desc":"Bloody Finger Okina","curTime":"2022-04-16 11:10:47 PM","pickedTime":null,"pin":{"x":0.4683333396911621,"y":0.7756863465246534},"time":"2022-04-16 11:10:47 PM","map":"flame-peak"}
+{"desc":"Wolves","curTime":"2022-04-16 11:55:47 PM","pickedTime":null,"pin":{"x":0.33625,"y":0.44474553500973857},"time":"2022-04-16 11:55:47 PM","map":"consecrated-snowfield"}
+{"desc":"Gravity Guy","curTime":"2022-04-17 10:41:15 AM","pickedTime":null,"pin":{"x":0.195,"y":0.7094906694586438},"time":"2022-04-17 10:41:15 AM","map":"consecrated-snowfield"}
+{"desc":"Astel, Stars of Darkness","curTime":"2022-04-17 10:50:21 AM","pickedTime":null,"pin":{"x":0.20125,"y":0.7114614768738068},"time":"2022-04-17 10:50:21 AM","map":"consecrated-snowfield"}
+{"desc":"Astel, Stars of Darkness","curTime":"2022-04-17 10:53:48 AM","pickedTime":null,"pin":{"x":0.20125,"y":0.7114614768738068},"time":"2022-04-17 10:53:48 AM","map":"consecrated-snowfield"}
+{"desc":"Astel, Stars of Darkness","curTime":"2022-04-17 10:56:41 AM","pickedTime":null,"pin":{"x":0.205,"y":0.6976658249676665},"time":"2022-04-17 10:56:41 AM","map":"consecrated-snowfield"}
+{"desc":"Astel, Stars of Darkness","curTime":"2022-04-17 10:58:17 AM","pickedTime":null,"pin":{"x":0.19875,"y":0.7016074397979922},"time":"2022-04-17 10:58:17 AM","map":"consecrated-snowfield"}
+{"desc":"Astel, Stars of Darkness","curTime":"2022-04-17 11:04:11 AM","pickedTime":null,"pin":{"x":0.20375,"y":0.7055490546283181},"time":"2022-04-17 11:04:11 AM","map":"consecrated-snowfield"}
+{"desc":"Astel, Stars of Darkness","curTime":"2022-04-17 11:05:43 AM","pickedTime":null,"pin":{"x":0.20375,"y":0.7055490546283181},"time":"2022-04-17 11:05:43 AM","map":"consecrated-snowfield"}
+{"desc":"Astel, Stars of Darkness","curTime":"2022-04-17 11:07:17 AM","pickedTime":null,"pin":{"x":0.20375,"y":0.7055490546283181},"time":"2022-04-17 11:07:17 AM","map":"consecrated-snowfield"}
+{"desc":"Astel, Stars of Darkness","curTime":"2022-04-17 11:10:18 AM","pickedTime":null,"pin":{"x":0.2,"y":0.7016074397979922},"time":"2022-04-17 11:10:18 AM","map":"consecrated-snowfield"}
+{"desc":"Electrocuted","curTime":"2022-04-17 11:14:11 AM","pickedTime":null,"pin":{"x":0.28,"y":0.5419720391697974},"time":"2022-04-17 11:14:11 AM","map":"consecrated-snowfield"}
+{"desc":"Backstabbed","curTime":"2022-04-17 11:23:20 AM","pickedTime":null,"pin":{"x":0.3225,"y":0.27394223070764306},"time":"2022-04-17 11:23:20 AM","map":"consecrated-snowfield"}
+{"desc":"Sniped","curTime":"2022-04-17 11:29:51 AM","pickedTime":null,"pin":{"x":0.30875,"y":0.26802980846215435},"time":"2022-04-17 11:29:51 AM","map":"consecrated-snowfield"}
+{"desc":"Sniped","curTime":"2022-04-17 11:31:31 AM","pickedTime":null,"pin":{"x":0.30875,"y":0.26802980846215435},"time":"2022-04-17 11:31:31 AM","map":"consecrated-snowfield"}
+{"desc":"Backstabbed","curTime":"2022-04-17 11:33:34 AM","pickedTime":null,"pin":{"x":0.30875,"y":0.26802980846215435},"time":"2022-04-17 11:33:34 AM","map":"consecrated-snowfield"}
+{"desc":"Black Knife","curTime":"2022-04-17 11:41:47 AM","pickedTime":null,"pin":{"x":0.29875,"y":0.2700006158773172},"time":"2022-04-17 11:41:47 AM","map":"consecrated-snowfield"}
+{"desc":"Sniped","curTime":"2022-04-17 11:46:24 AM","pickedTime":null,"pin":{"x":0.30875,"y":0.24832173431052534},"time":"2022-04-17 11:46:24 AM","map":"consecrated-snowfield"}
+{"desc":"Falling","curTime":"2022-04-17 03:24:32 PM","pickedTime":null,"pin":{"x":0.595,"y":0.8579861658743212},"time":"2022-04-17 03:24:32 PM","map":"haligtree"}
+{"desc":"Bubble blowers","curTime":"2022-04-17 03:26:14 PM","pickedTime":null,"pin":{"x":0.595,"y":0.8579861658743212},"time":"2022-04-17 03:26:14 PM","map":"haligtree"}
+{"desc":"Ants","curTime":"2022-04-17 03:28:26 PM","pickedTime":null,"pin":{"x":0.5925,"y":0.8738480949913255},"time":"2022-04-17 03:28:26 PM","map":"haligtree"}
+{"desc":"Ants","curTime":"2022-04-17 03:30:44 PM","pickedTime":null,"pin":{"x":0.5925,"y":0.85654417231823},"time":"2022-04-17 03:30:44 PM","map":"haligtree"}
+{"desc":"Ants","curTime":"2022-04-17 03:32:39 PM","pickedTime":null,"pin":{"x":0.5925,"y":0.85654417231823},"time":"2022-04-17 03:32:39 PM","map":"haligtree"}
+{"desc":"Ants","curTime":"2022-04-17 03:35:03 PM","pickedTime":null,"pin":{"x":0.59375,"y":0.8695221143230516},"time":"2022-04-17 03:35:03 PM","map":"haligtree"}
+{"desc":"Falling","curTime":"2022-04-17 03:39:56 PM","pickedTime":null,"pin":{"x":0.6475,"y":0.20355127938755613},"time":"2022-04-17 03:39:56 PM","map":"liurnia-5"}
+{"desc":"Bubble Blower","curTime":"2022-04-17 03:44:47 PM","pickedTime":null,"pin":{"x":0.59,"y":0.8349142689768605},"time":"2022-04-17 03:44:47 PM","map":"haligtree"}
+{"desc":"Falling","curTime":"2022-04-17 03:46:41 PM","pickedTime":null,"pin":{"x":0.5825,"y":0.8493342045377734},"time":"2022-04-17 03:46:41 PM","map":"haligtree"}
+{"desc":"Bubble Blower","curTime":"2022-04-17 04:14:59 PM","pickedTime":null,"pin":{"x":0.5920833396911621,"y":0.8113617093942923},"time":"2022-04-17 04:14:59 PM","map":"haligtree"}
+{"desc":"Bubble Blower","curTime":"2022-04-17 04:16:33 PM","pickedTime":null,"pin":{"x":0.5799166141573628,"y":0.8082865811326706},"time":"2022-04-17 04:16:33 PM","map":"haligtree"}
+{"desc":"Misbegotten Warrior","curTime":"2022-04-17 04:28:59 PM","pickedTime":null,"pin":{"x":0.5599166156832416,"y":0.701578907716507},"time":"2022-04-17 04:28:59 PM","map":"haligtree"}
+{"desc":"Misbegotten Warrior","curTime":"2022-04-17 04:29:45 PM","pickedTime":null,"pin":{"x":0.5599166156832416,"y":0.701578907716507},"time":"2022-04-17 04:29:45 PM","map":"haligtree"}
+{"desc":"Bludgeoned","curTime":"2022-04-17 04:55:57 PM","pickedTime":null,"pin":{"x":0.4286666256968212,"y":0.615732071516785},"time":"2022-04-17 04:55:57 PM","map":"haligtree"}
+{"desc":"Bludgeoned by Wizards","curTime":"2022-04-17 05:03:06 PM","pickedTime":null,"pin":{"x":0.4124166269365977,"y":0.6027541112364408},"time":"2022-04-17 05:03:06 PM","map":"haligtree"}
+{"desc":"Fell off the Bridge","curTime":"2022-04-17 05:05:42 PM","pickedTime":null,"pin":{"x":0.3874166288439462,"y":0.5926601421295065},"time":"2022-04-17 05:05:42 PM","map":"haligtree"}
+{"desc":"Crushed","curTime":"2022-04-17 05:08:14 PM","pickedTime":null,"pin":{"x":0.4049166275088022,"y":0.584008168609277},"time":"2022-04-17 05:08:14 PM","map":"haligtree"}
+{"desc":"Bludgeoned by wizard","curTime":"2022-04-17 05:11:06 PM","pickedTime":null,"pin":{"x":0.591166613299056,"y":0.7621427223581134},"time":"2022-04-17 05:11:06 PM","map":"haligtree"}
+{"desc":"Wizards","curTime":"2022-04-17 05:12:56 PM","pickedTime":null,"pin":{"x":0.591166613299056,"y":0.7621427223581134},"time":"2022-04-17 05:12:56 PM","map":"haligtree"}
+{"desc":"Wizards","curTime":"2022-04-17 05:14:46 PM","pickedTime":null,"pin":{"x":0.5899166133944234,"y":0.7607007267714085},"time":"2022-04-17 05:14:46 PM","map":"haligtree"}
+{"desc":"Loretta, Knight of the Haligtree","curTime":"2022-04-17 05:21:04 PM","pickedTime":null,"pin":{"x":0.6561666083399499,"y":0.7102308812367365},"time":"2022-04-17 05:21:04 PM","map":"haligtree"}
+{"desc":"Loretta, Knight of the Haligtree","curTime":"2022-04-17 05:27:04 PM","pickedTime":null,"pin":{"x":0.6524166086260522,"y":0.718882854756966},"time":"2022-04-17 05:27:04 PM","map":"haligtree"}
+{"desc":"Loretta, Knight of the Haligtree","curTime":"2022-04-17 05:34:39 PM","pickedTime":null,"pin":{"x":0.6649166076723779,"y":0.7044628988899169},"time":"2022-04-17 05:34:39 PM","map":"haligtree"}
+{"desc":"Loretta, Knight of the Haligtree","curTime":"2022-04-17 05:40:18 PM","pickedTime":null,"pin":{"x":0.6511666087214196,"y":0.7253237361063585},"time":"2022-04-17 05:40:18 PM","map":"haligtree"}
+{"desc":"Impaled","curTime":"2022-04-17 06:02:01 PM","pickedTime":null,"pin":{"x":0.6133928680419922,"y":0.502158679070221},"time":"2022-04-17 06:02:01 PM","map":"haligtree"}
+{"desc":"Impaled","curTime":"2022-04-17 06:09:09 PM","pickedTime":null,"pin":{"x":0.6098611068725586,"y":0.5013368508593101},"time":"2022-04-17 06:09:09 PM","map":"haligtree"}
+{"desc":"Mauled by weird things","curTime":"2022-04-17 06:20:42 PM","pickedTime":null,"pin":{"x":0.61375,"y":0.5489229942044346},"time":"2022-04-17 06:20:42 PM","map":"haligtree"}
+{"desc":"Erdtree Avatar","curTime":"2022-04-17 06:26:26 PM","pickedTime":null,"pin":{"x":0.6308333396911621,"y":0.49385001089595754},"time":"2022-04-17 06:26:26 PM","map":"haligtree"}
+{"desc":"Erdtree Avatar","curTime":"2022-04-17 06:28:29 PM","pickedTime":null,"pin":{"x":0.6234523773193359,"y":0.5583966059444401},"time":"2022-04-17 06:28:29 PM","map":"haligtree"}
+{"desc":"Haligtree Soldiers","curTime":"2022-04-17 06:35:25 PM","pickedTime":null,"pin":{"x":0.5823214340209961,"y":0.44866741031429996},"time":"2022-04-17 06:35:25 PM","map":"haligtree"}
+{"desc":"Haligtree Soldiers","curTime":"2022-04-17 06:37:15 PM","pickedTime":null,"pin":{"x":0.5823214340209961,"y":0.44866741031429996},"time":"2022-04-17 06:37:15 PM","map":"haligtree"}
+{"desc":"Knights and Avatar","curTime":"2022-04-17 07:27:01 PM","pickedTime":null,"pin":{"x":0.52005952835083,"y":0.41859145413682014},"time":"2022-04-17 07:27:01 PM","map":"haligtree"}
+{"desc":"Erdtree Avatar","curTime":"2022-04-17 07:28:27 PM","pickedTime":null,"pin":{"x":0.51875,"y":0.43259943749399316},"time":"2022-04-17 07:28:27 PM","map":"haligtree"}
+{"desc":"Erdtree Avatar","curTime":"2022-04-17 07:30:12 PM","pickedTime":null,"pin":{"x":0.51875,"y":0.43259943749399316},"time":"2022-04-17 07:30:12 PM","map":"haligtree"}
+{"desc":"Crystal girls","curTime":"2022-04-17 07:37:50 PM","pickedTime":null,"pin":{"x":0.52625,"y":0.44804942997771874},"time":"2022-04-17 07:37:50 PM","map":"haligtree"}
+{"desc":"Falling","curTime":"2022-04-17 07:51:48 PM","pickedTime":null,"pin":{"x":0.6171428680419921,"y":0.440152759696082},"time":"2022-04-17 07:51:48 PM","map":"haligtree"}
+{"desc":"Knight","curTime":"2022-04-17 07:56:19 PM","pickedTime":null,"pin":{"x":0.6419642829895019,"y":0.46185139788621943},"time":"2022-04-17 07:56:19 PM","map":"haligtree"}
+{"desc":"Weird Blood Worm","curTime":"2022-04-17 08:07:52 PM","pickedTime":null,"pin":{"x":0.554285717010498,"y":0.5641645984443601},"time":"2022-04-17 08:07:52 PM","map":"haligtree"}
+{"desc":"Dart bugs","curTime":"2022-04-17 08:16:36 PM","pickedTime":null,"pin":{"x":0.6189285731315612,"y":0.4502467465709418},"time":"2022-04-17 08:16:36 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:28:05 PM","pickedTime":null,"pin":{"x":0.5414285731315612,"y":0.5118406625516678},"time":"2022-04-17 08:28:05 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:29:39 PM","pickedTime":null,"pin":{"x":0.5526785731315613,"y":0.5030513301693397},"time":"2022-04-17 08:29:39 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:31:21 PM","pickedTime":null,"pin":{"x":0.5414285731315612,"y":0.5073773245442796},"time":"2022-04-17 08:31:21 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:33:27 PM","pickedTime":null,"pin":{"x":0.5614285731315612,"y":0.49007334704451994},"time":"2022-04-17 08:33:27 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:35:08 PM","pickedTime":null,"pin":{"x":0.5651785731315613,"y":0.5016093320443598},"time":"2022-04-17 08:35:08 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:36:39 PM","pickedTime":null,"pin":{"x":0.5639285731315613,"y":0.5102613207942396},"time":"2022-04-17 08:36:39 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:38:30 PM","pickedTime":null,"pin":{"x":0.5764285731315613,"y":0.5094373360105587},"time":"2022-04-17 08:38:30 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:39:31 PM","pickedTime":null,"pin":{"x":0.5564285731315612,"y":0.49604735499311214},"time":"2022-04-17 08:39:31 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:40:33 PM","pickedTime":null,"pin":{"x":0.5714285731315613,"y":0.49604735499311214},"time":"2022-04-17 08:40:33 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:41:57 PM","pickedTime":null,"pin":{"x":0.5576785731315613,"y":0.5003733493680521},"time":"2022-04-17 08:41:57 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:43:22 PM","pickedTime":null,"pin":{"x":0.5626785731315613,"y":0.5223466528199407},"time":"2022-04-17 08:43:22 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:45:43 PM","pickedTime":null,"pin":{"x":0.5726785731315612,"y":0.5450066194262072},"time":"2022-04-17 08:45:43 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:47:24 PM","pickedTime":null,"pin":{"x":0.5576785731315613,"y":0.5103986644266878},"time":"2022-04-17 08:47:24 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:48:33 PM","pickedTime":null,"pin":{"x":0.5664285731315613,"y":0.5103986644266878},"time":"2022-04-17 08:48:33 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:49:28 PM","pickedTime":null,"pin":{"x":0.5539285731315613,"y":0.501746675676808},"time":"2022-04-17 08:49:28 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:51:00 PM","pickedTime":null,"pin":{"x":0.5239285731315613,"y":0.5060726700517478},"time":"2022-04-17 08:51:00 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:52:06 PM","pickedTime":null,"pin":{"x":0.5276785731315613,"y":0.5190506531765676},"time":"2022-04-17 08:52:06 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:54:31 PM","pickedTime":null,"pin":{"x":0.5451785731315613,"y":0.4844426981770482},"time":"2022-04-17 08:54:31 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:56:44 PM","pickedTime":null,"pin":{"x":0.5126785731315613,"y":0.5305866381764075},"time":"2022-04-17 08:56:44 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:58:22 PM","pickedTime":null,"pin":{"x":0.5451785731315613,"y":0.5118406625516678},"time":"2022-04-17 08:58:22 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 08:59:49 PM","pickedTime":null,"pin":{"x":0.5351785731315613,"y":0.47002271692724845},"time":"2022-04-17 08:59:49 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-04-17 09:01:00 PM","pickedTime":null,"pin":{"x":0.5514285731315612,"y":0.47579070942716833},"time":"2022-04-17 09:01:00 PM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-07 10:53:11 AM","pickedTime":null,"pin":{"x":0.5429166603088379,"y":0.5109501764791876},"time":"2022-05-07 10:53:11 AM","map":"haligtree"}
+{"desc":"Falling in the sewers","curTime":"2022-05-07 11:18:55 AM","pickedTime":null,"pin":{"x":0.6525,"y":0.5473706005826},"time":"2022-05-07 11:18:55 AM","map":"leyndell"}
+{"desc":"Giant sewer lobster","curTime":"2022-05-07 11:25:43 AM","pickedTime":null,"pin":{"x":0.6336666386667908,"y":0.5887279381153208},"time":"2022-05-07 11:25:43 AM","map":"leyndell"}
+{"desc":"Catacomb Chaos Dudes","curTime":"2022-05-24 11:18:14 PM","pickedTime":null,"pin":{"x":0.6230357170104981,"y":0.6423665676072868},"time":"2022-05-24 11:18:14 PM","map":"leyndell"}
+{"desc":"Dragonkin Soldier","curTime":"2022-05-26 10:54:03 PM","pickedTime":null,"pin":{"x":0.5498213825362105,"y":0.5308992930937336},"time":"2022-05-26 10:54:03 PM","map":"lake-of-rot"}
+{"desc":"Death Blighted","curTime":"2022-05-26 11:01:08 PM","pickedTime":null,"pin":{"x":0.5625,"y":0.5937284578880443},"time":"2022-05-26 11:01:08 PM","map":"lake-of-rot"}
+{"desc":"Astel, Naturalborn of the Void","curTime":"2022-05-26 11:44:06 PM","pickedTime":null,"pin":{"x":0.42625,"y":0.5223995839964702},"time":"2022-05-26 11:44:06 PM","map":"astel"}
+{"desc":"Alecto, Black Knife Ringleader","curTime":"2022-05-27 08:07:03 PM","pickedTime":null,"pin":{"x":0.26,"y":0.5261436999698887},"time":"2022-05-27 08:07:03 PM","map":"liurnia-4"}
+{"desc":"Alecto, Black Knife Ringleader","curTime":"2022-05-27 08:08:18 PM","pickedTime":null,"pin":{"x":0.2625,"y":0.5236832690163099},"time":"2022-05-27 08:08:18 PM","map":"liurnia-4"}
+{"desc":"Alecto, Black Knife Ringleader","curTime":"2022-05-27 08:09:57 PM","pickedTime":null,"pin":{"x":0.2625,"y":0.5236832690163099},"time":"2022-05-27 08:09:57 PM","map":"liurnia-4"}
+{"desc":"Red Wolf","curTime":"2022-05-27 08:16:48 PM","pickedTime":null,"pin":{"x":0.265,"y":0.8053055190599266},"time":"2022-05-27 08:16:48 PM","map":"liurnia-4"}
+{"desc":"Mohg, the Omen","curTime":"2022-05-27 11:48:59 PM","pickedTime":null,"pin":{"x":0.7333333396911621,"y":0.4882829515833049},"time":"2022-05-27 11:48:59 PM","map":"leyndell"}
+{"desc":"Mohg, the Omen","curTime":"2022-05-27 11:53:18 PM","pickedTime":null,"pin":{"x":0.7318332685979256,"y":0.4882874866717107},"time":"2022-05-27 11:53:18 PM","map":"leyndell"}
+{"desc":"Falling","curTime":"2022-05-28 12:10:49 AM","pickedTime":null,"pin":{"x":0.7766666793823243,"y":0.46989146444361046},"time":"2022-05-28 12:10:49 AM","map":"leyndell"}
+{"desc":"Madness","curTime":"2022-05-28 12:11:35 AM","pickedTime":null,"pin":{"x":0.7766666793823243,"y":0.46989146444361046},"time":"2022-05-28 12:11:35 AM","map":"leyndell"}
+{"desc":"Sisters of Millicent","curTime":"2022-05-28 12:30:30 AM","pickedTime":null,"pin":{"x":0.53875,"y":0.5460348950734938},"time":"2022-05-28 12:30:30 AM","map":"haligtree"}
+{"desc":"Sisters of Millicent","curTime":"2022-05-28 12:31:32 AM","pickedTime":null,"pin":{"x":0.53875,"y":0.5460348950734938},"time":"2022-05-28 12:31:32 AM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-28 12:37:06 AM","pickedTime":null,"pin":{"x":0.54375,"y":0.516233693080684},"time":"2022-05-28 12:37:06 AM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-28 12:38:51 AM","pickedTime":null,"pin":{"x":0.54875,"y":0.5191176801928666},"time":"2022-05-28 12:38:51 AM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-28 12:39:53 AM","pickedTime":null,"pin":{"x":0.5575,"y":0.5277696415294144},"time":"2022-05-28 12:39:53 AM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-28 12:40:34 AM","pickedTime":null,"pin":{"x":0.55625,"y":0.5085430626151201},"time":"2022-05-28 12:40:34 AM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-28 12:42:52 AM","pickedTime":null,"pin":{"x":0.545,"y":0.4955651041079918},"time":"2022-05-28 12:42:52 AM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-28 12:46:49 AM","pickedTime":null,"pin":{"x":0.53125,"y":0.5071010525567222},"time":"2022-05-28 12:46:49 AM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-28 12:47:57 AM","pickedTime":null,"pin":{"x":0.54125,"y":0.511427033224996},"time":"2022-05-28 12:47:57 AM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-28 12:48:50 AM","pickedTime":null,"pin":{"x":0.54,"y":0.5215209881176351},"time":"2022-05-28 12:48:50 AM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-28 12:50:51 AM","pickedTime":null,"pin":{"x":0.5175,"y":0.47441587995403645},"time":"2022-05-28 12:50:51 AM","map":"haligtree"}
+{"desc":"Malenia","curTime":"2022-05-28 12:51:58 AM","pickedTime":null,"pin":{"x":0.55,"y":0.5191176801928666},"time":"2022-05-28 12:51:58 AM","map":"haligtree"}
+{"desc":"Flame Giant","curTime":"2022-05-28 03:19:55 PM","pickedTime":null,"pin":{"x":0.63375,"y":0.8746059437456003},"time":"2022-05-28 03:19:55 PM","map":"flame-peak"}
+{"desc":"Flame Giant","curTime":"2022-05-28 03:23:23 PM","pickedTime":null,"pin":{"x":0.6325,"y":0.8354298656382946},"time":"2022-05-28 03:23:23 PM","map":"flame-peak"}
+{"desc":"Flame Giant","curTime":"2022-05-28 03:28:29 PM","pickedTime":null,"pin":{"x":0.6175,"y":0.8687295320295045},"time":"2022-05-28 03:28:29 PM","map":"flame-peak"}
+{"desc":"Falling into the Forge","curTime":"2022-05-28 03:49:38 PM","pickedTime":null,"pin":{"x":0.82625,"y":0.7531601016129525},"time":"2022-05-28 03:49:38 PM","map":"flame-peak"}
+{"desc":"Death Blighted","curTime":"2022-05-28 04:10:09 PM","pickedTime":null,"pin":{"x":0.46125,"y":0.6324547570774198},"time":"2022-05-28 04:10:09 PM","map":"farum-azula"}
+{"desc":"Dragon","curTime":"2022-05-28 04:25:53 PM","pickedTime":null,"pin":{"x":0.4225,"y":0.5296087707441616},"time":"2022-05-28 04:25:53 PM","map":"farum-azula"}
+{"desc":"Lightning Struck","curTime":"2022-05-28 04:31:18 PM","pickedTime":null,"pin":{"x":0.4475,"y":0.5517158519186003},"time":"2022-05-28 04:31:18 PM","map":"farum-azula"}
+{"desc":"Burned by Knight","curTime":"2022-05-28 04:41:55 PM","pickedTime":null,"pin":{"x":0.5325,"y":0.40753923556356536},"time":"2022-05-28 04:41:55 PM","map":"farum-azula"}
+{"desc":"Godskin Duo","curTime":"2022-05-28 04:55:55 PM","pickedTime":null,"pin":{"x":0.5133333396911621,"y":0.41971622304683015},"time":"2022-05-28 04:55:55 PM","map":"farum-azula"}
+{"desc":"Knight","curTime":"2022-05-28 04:56:32 PM","pickedTime":null,"pin":{"x":0.4825,"y":0.44278459534253733},"time":"2022-05-28 04:56:32 PM","map":"farum-azula"}
+{"desc":"Knight","curTime":"2022-05-28 04:57:41 PM","pickedTime":null,"pin":{"x":0.4825,"y":0.44086223098456173},"time":"2022-05-28 04:57:41 PM","map":"farum-azula"}
+{"desc":"Godskin Duo","curTime":"2022-05-28 05:03:20 PM","pickedTime":null,"pin":{"x":0.5125,"y":0.42163858007156774},"time":"2022-05-28 05:03:20 PM","map":"farum-azula"}
+{"desc":"Godskin Duo","curTime":"2022-05-28 05:05:59 PM","pickedTime":null,"pin":{"x":0.5066666603088379,"y":0.40882692585681246},"time":"2022-05-28 05:05:59 PM","map":"farum-azula"}
+{"desc":"Godskin Duo","curTime":"2022-05-28 05:09:52 PM","pickedTime":null,"pin":{"x":0.5204166603088379,"y":0.40498215834509793},"time":"2022-05-28 05:09:52 PM","map":"farum-azula"}
+{"desc":"Godskin Duo","curTime":"2022-05-28 05:11:59 PM","pickedTime":null,"pin":{"x":0.5191666603088378,"y":0.40882692585681246},"time":"2022-05-28 05:11:59 PM","map":"farum-azula"}
+{"desc":"Godskin Duo","curTime":"2022-05-28 05:13:04 PM","pickedTime":null,"pin":{"x":0.5266666603088379,"y":0.412671693368527},"time":"2022-05-28 05:13:04 PM","map":"farum-azula"}
+{"desc":"Godskin Duo","curTime":"2022-05-28 05:14:28 PM","pickedTime":null,"pin":{"x":0.5216666603088379,"y":0.4165164608802415},"time":"2022-05-28 05:14:28 PM","map":"farum-azula"}
+{"desc":"Godskin Duo","curTime":"2022-05-28 05:16:57 PM","pickedTime":null,"pin":{"x":0.5216666603088379,"y":0.41459407712438423},"time":"2022-05-28 05:16:57 PM","map":"farum-azula"}
+{"desc":"Godskin Duo","curTime":"2022-05-28 05:18:08 PM","pickedTime":null,"pin":{"x":0.5166666603088379,"y":0.40690454210095517},"time":"2022-05-28 05:18:08 PM","map":"farum-azula"}
+{"desc":"Falling","curTime":"2022-05-28 05:50:34 PM","pickedTime":null,"pin":{"x":0.41375,"y":0.4998122700307877},"time":"2022-05-28 05:50:34 PM","map":"farum-azula"}
+{"desc":"Beast Clergyman","curTime":"2022-05-28 08:46:55 PM","pickedTime":null,"pin":{"x":0.60875,"y":0.44310280093114063},"time":"2022-05-28 08:46:55 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 08:54:23 PM","pickedTime":null,"pin":{"x":0.61625,"y":0.44790868814297513},"time":"2022-05-28 08:54:23 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 09:02:08 PM","pickedTime":null,"pin":{"x":0.635,"y":0.46328752722084554},"time":"2022-05-28 09:02:08 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 09:04:00 PM","pickedTime":null,"pin":{"x":0.5975,"y":0.45944281745137794},"time":"2022-05-28 09:04:00 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 09:09:16 PM","pickedTime":null,"pin":{"x":0.6025,"y":0.47097694675978075},"time":"2022-05-28 09:09:16 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 09:15:06 PM","pickedTime":null,"pin":{"x":0.63125,"y":0.48154989862581665},"time":"2022-05-28 09:15:06 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 09:19:14 PM","pickedTime":null,"pin":{"x":0.625,"y":0.46232634977847864},"time":"2022-05-28 09:19:14 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 09:23:58 PM","pickedTime":null,"pin":{"x":0.6325,"y":0.46617105954794624},"time":"2022-05-28 09:23:58 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 09:31:12 PM","pickedTime":null,"pin":{"x":0.6375,"y":0.46809341443268004},"time":"2022-05-28 09:31:12 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 09:36:22 PM","pickedTime":null,"pin":{"x":0.61625,"y":0.45271457535480963},"time":"2022-05-28 09:36:22 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 09:41:30 PM","pickedTime":null,"pin":{"x":0.595,"y":0.4373357362769392},"time":"2022-05-28 09:41:30 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 09:46:39 PM","pickedTime":null,"pin":{"x":0.63875,"y":0.46040399489374484},"time":"2022-05-28 09:46:39 PM","map":"farum-azula"}
+{"desc":"Beast Clergyman","curTime":"2022-05-28 10:56:10 PM","pickedTime":null,"pin":{"x":0.6175,"y":0.47802791746129636},"time":"2022-05-28 10:56:10 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:01:04 PM","pickedTime":null,"pin":{"x":0.6225,"y":0.4280464441539309},"time":"2022-05-28 11:01:04 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:06:33 PM","pickedTime":null,"pin":{"x":0.6,"y":0.4261240797959553},"time":"2022-05-28 11:06:33 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:10:59 PM","pickedTime":null,"pin":{"x":0.62625,"y":0.4626490025974916},"time":"2022-05-28 11:10:59 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:15:56 PM","pickedTime":null,"pin":{"x":0.63375,"y":0.47226082438736955},"time":"2022-05-28 11:15:56 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:20:31 PM","pickedTime":null,"pin":{"x":0.61625,"y":0.4837950105352231},"time":"2022-05-28 11:20:31 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:25:23 PM","pickedTime":null,"pin":{"x":0.635,"y":0.47097926770402065},"time":"2022-05-28 11:25:23 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:29:52 PM","pickedTime":null,"pin":{"x":0.6225,"y":0.46713453898806945},"time":"2022-05-28 11:29:52 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:39:04 PM","pickedTime":null,"pin":{"x":0.6125,"y":0.47226082438736955},"time":"2022-05-28 11:39:04 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:45:12 PM","pickedTime":null,"pin":{"x":0.6225,"y":0.451114816449638},"time":"2022-05-28 11:45:12 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:51:18 PM","pickedTime":null,"pin":{"x":0.63875,"y":0.43060961618653315},"time":"2022-05-28 11:51:18 PM","map":"farum-azula"}
+{"desc":"Beast Clergyman","curTime":"2022-05-28 11:53:54 PM","pickedTime":null,"pin":{"x":0.6125,"y":0.4479108954083135},"time":"2022-05-28 11:53:54 PM","map":"farum-azula"}
+{"desc":"Maliketh, the Black Blade","curTime":"2022-05-28 11:59:02 PM","pickedTime":null,"pin":{"x":0.61625,"y":0.460726638239516},"time":"2022-05-28 11:59:02 PM","map":"farum-azula"}
+{"desc":"Sir Gideon Ofnir, the All Knowing","curTime":"2022-05-29 10:39:52 AM","pickedTime":null,"pin":{"x":0.635,"y":0.7006597426350513},"time":"2022-05-29 10:39:52 AM","map":"leyndell"}
+{"desc":"Sir Gideon Ofnir, the All-Knowing","curTime":"2022-05-29 10:40:31 AM","pickedTime":null,"pin":{"x":0.6325,"y":0.7040041805473904},"time":"2022-05-29 10:40:31 AM","map":"leyndell"}
+{"desc":"Sir Gideon Ofnir, the All-Knowing","curTime":"2022-05-29 10:41:43 AM","pickedTime":null,"pin":{"x":0.63125,"y":0.6948069762884578},"time":"2022-05-29 10:41:43 AM","map":"leyndell"}
+{"desc":"Sir Gideon Ofnir, the All-Knowing","curTime":"2022-05-29 10:43:05 AM","pickedTime":null,"pin":{"x":0.63625,"y":0.7115291658501535},"time":"2022-05-29 10:43:05 AM","map":"leyndell"}
+{"desc":"Sir Gideon Ofnir, the All-Knowing","curTime":"2022-05-29 10:45:02 AM","pickedTime":null,"pin":{"x":0.625,"y":0.7081847279378144},"time":"2022-05-29 10:45:02 AM","map":"leyndell"}
+{"desc":"Sir Gideon Ofnir, the All-Knowing","curTime":"2022-05-29 10:46:32 AM","pickedTime":null,"pin":{"x":0.63875,"y":0.6998236331569665},"time":"2022-05-29 10:46:32 AM","map":"leyndell"}
+{"desc":"Sir Gideon Ofnir, the All-Knowing","curTime":"2022-05-29 10:47:39 AM","pickedTime":null,"pin":{"x":0.64125,"y":0.7031680710693057},"time":"2022-05-29 10:47:39 AM","map":"leyndell"}
+{"desc":"Death Blighted","curTime":"2022-05-29 10:59:30 AM","pickedTime":null,"pin":{"x":0.44625,"y":0.36383149986584384},"time":"2022-05-29 10:59:30 AM","map":"deeproot-depths"}
+{"desc":"Malenia, Goddess of Rot","curTime":"2022-05-29 11:22:33 AM","pickedTime":null,"pin":{"x":0.53875,"y":0.520559673748958},"time":"2022-05-29 11:22:33 AM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-29 12:18:02 PM","pickedTime":null,"pin":{"x":0.53875,"y":0.5018137575197711},"time":"2022-05-29 12:18:02 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-29 12:19:17 PM","pickedTime":null,"pin":{"x":0.56625,"y":0.5046977446319537},"time":"2022-05-29 12:19:17 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-29 12:22:11 PM","pickedTime":null,"pin":{"x":0.53,"y":0.516233693080684},"time":"2022-05-29 12:22:11 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-29 12:23:06 PM","pickedTime":null,"pin":{"x":0.56625,"y":0.5061397381880449},"time":"2022-05-29 12:23:06 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-29 12:25:16 PM","pickedTime":null,"pin":{"x":0.56875,"y":0.5335376157537796},"time":"2022-05-29 12:25:16 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-29 12:27:57 PM","pickedTime":null,"pin":{"x":0.54875,"y":0.5046977446319537},"time":"2022-05-29 12:27:57 PM","map":"haligtree"}
+{"desc":"Malenia, Goddess of Rot","curTime":"2022-05-29 12:40:54 PM","pickedTime":null,"pin":{"x":0.54125,"y":0.5364216028659622},"time":"2022-05-29 12:40:54 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:01:36 PM","pickedTime":null,"pin":{"x":0.53375,"y":0.5263276479733231},"time":"2022-05-30 08:01:36 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:02:51 PM","pickedTime":null,"pin":{"x":0.56875,"y":0.5220016673050493},"time":"2022-05-30 08:02:51 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:04:49 PM","pickedTime":null,"pin":{"x":0.5425,"y":0.491719802627132},"time":"2022-05-30 08:04:49 PM","map":"haligtree"}
+{"desc":"Malenia, Goddess of Rot","curTime":"2022-05-30 08:09:02 PM","pickedTime":null,"pin":{"x":0.54875,"y":0.54507356420251},"time":"2022-05-30 08:09:02 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:11:02 PM","pickedTime":null,"pin":{"x":0.54,"y":0.5075817317441362},"time":"2022-05-30 08:11:02 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:13:49 PM","pickedTime":null,"pin":{"x":0.515,"y":0.5292116350855057},"time":"2022-05-30 08:13:49 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:15:23 PM","pickedTime":null,"pin":{"x":0.5375,"y":0.530653628641597},"time":"2022-05-30 08:15:23 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:17:09 PM","pickedTime":null,"pin":{"x":0.56125,"y":0.520559673748958},"time":"2022-05-30 08:17:09 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:18:11 PM","pickedTime":null,"pin":{"x":0.5325,"y":0.5018137575197711},"time":"2022-05-30 08:18:11 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:19:54 PM","pickedTime":null,"pin":{"x":0.55125,"y":0.4960457832954059},"time":"2022-05-30 08:19:54 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:22:28 PM","pickedTime":null,"pin":{"x":0.51875,"y":0.5652614739877881},"time":"2022-05-30 08:22:28 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:24:22 PM","pickedTime":null,"pin":{"x":0.5875,"y":0.5003717639636798},"time":"2022-05-30 08:24:22 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 08:25:03 PM","pickedTime":null,"pin":{"x":0.54375,"y":0.45999594439312347},"time":"2022-05-30 08:25:03 PM","map":"haligtree"}
+{"desc":"Malenia, Blade of Miquella","curTime":"2022-05-30 09:20:21 PM","pickedTime":null,"pin":{"x":0.54375,"y":0.5436315706464186},"time":"2022-05-30 09:20:21 PM","map":"haligtree"}
+{"desc":"Dragonlord Placidusax","curTime":"2022-05-30 10:05:44 PM","pickedTime":null,"pin":{"x":0.52625,"y":0.5219193512052264},"time":"2022-05-30 10:05:44 PM","map":"farum-azula"}
+{"desc":"Hoarah Loux, Warrior","curTime":"2022-05-31 06:34:03 PM","pickedTime":null,"pin":{"x":0.7306944274902344,"y":0.7274078217080057},"time":"2022-05-31 06:34:03 PM","map":"leyndell"}
+{"desc":"Hoarah Loux, Warrior","curTime":"2022-06-02 09:35:55 PM","pickedTime":null,"pin":{"x":0.7161111068725586,"y":0.728522605956811},"time":"2022-06-02 09:35:55 PM","map":"leyndell"}
+{"desc":"Godfrey, First Elden Lord","curTime":"2022-06-02 09:38:18 PM","pickedTime":null,"pin":{"x":0.7136111068725586,"y":0.70678398140002},"time":"2022-06-02 09:38:18 PM","map":"leyndell"}
+{"desc":"Haorah Loux, Warrior","curTime":"2022-06-02 09:42:36 PM","pickedTime":null,"pin":{"x":0.6986111068725586,"y":0.7101283851779878},"time":"2022-06-02 09:42:36 PM","map":"leyndell"}
+{"desc":"Haorah Loux, Warrior","curTime":"2022-06-02 09:45:47 PM","pickedTime":null,"pin":{"x":0.6848611068725586,"y":0.7051117795110361},"time":"2022-06-02 09:45:47 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-02 09:59:17 PM","pickedTime":null,"pin":{"x":0.8086111068725585,"y":0.897414996744187},"time":"2022-06-02 09:59:17 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-02 10:01:54 PM","pickedTime":null,"pin":{"x":0.8361111068725586,"y":0.8940705929662192},"time":"2022-06-02 10:01:54 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-02 10:04:09 PM","pickedTime":null,"pin":{"x":0.8161111068725586,"y":0.8790207759653639},"time":"2022-06-02 10:04:09 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-02 10:08:13 PM","pickedTime":null,"pin":{"x":0.8098611068725586,"y":0.8622987570755246},"time":"2022-06-02 10:08:13 PM","map":"leyndell"}
+{"desc":"Mohgwyn Albinauric","curTime":"2022-06-02 10:20:50 PM","pickedTime":null,"pin":{"x":0.9601388883590698,"y":0.6535269061282306},"time":"2022-06-02 10:20:50 PM","map":"siofra"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-02 10:47:54 PM","pickedTime":null,"pin":{"x":0.6463888883590698,"y":0.6583644520760102},"time":"2022-06-02 10:47:54 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-02 10:49:09 PM","pickedTime":null,"pin":{"x":0.6538888883590698,"y":0.6623897781679005},"time":"2022-06-02 10:49:09 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-02 10:51:29 PM","pickedTime":null,"pin":{"x":0.6488888883590698,"y":0.6603771151219554},"time":"2022-06-02 10:51:29 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-02 10:54:05 PM","pickedTime":null,"pin":{"x":0.6438888883590699,"y":0.6422631477084491},"time":"2022-06-02 10:54:05 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-02 10:59:53 PM","pickedTime":null,"pin":{"x":0.6451388883590699,"y":0.6503137998922297},"time":"2022-06-02 10:59:53 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-02 11:02:47 PM","pickedTime":null,"pin":{"x":0.6501388883590699,"y":0.6623897781679005},"time":"2022-06-02 11:02:47 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-02 11:05:18 PM","pickedTime":null,"pin":{"x":0.6463888883590698,"y":0.6543391259841199},"time":"2022-06-02 11:05:18 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 09:50:52 PM","pickedTime":null,"pin":{"x":0.6579166603088379,"y":0.6554572045630351},"time":"2022-06-07 09:50:52 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 09:55:59 PM","pickedTime":null,"pin":{"x":0.65625,"y":0.6549177826207823},"time":"2022-06-07 09:55:59 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 09:58:41 PM","pickedTime":null,"pin":{"x":0.6475,"y":0.6529051242658154},"time":"2022-06-07 09:58:41 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 10:01:42 PM","pickedTime":null,"pin":{"x":0.64625,"y":0.6508924697496823},"time":"2022-06-07 10:01:42 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 10:07:44 PM","pickedTime":null,"pin":{"x":0.65,"y":0.6508924697496823},"time":"2022-06-07 10:07:44 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 10:11:51 PM","pickedTime":null,"pin":{"x":0.65,"y":0.664981051362614},"time":"2022-06-07 10:11:51 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 10:16:49 PM","pickedTime":null,"pin":{"x":0.64125,"y":0.6408291971690167},"time":"2022-06-07 10:16:49 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 10:21:55 PM","pickedTime":null,"pin":{"x":0.6362499609947234,"y":0.6440467118070665},"time":"2022-06-07 10:21:55 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 10:28:28 PM","pickedTime":null,"pin":{"x":0.6449999603271515,"y":0.6661858061409411},"time":"2022-06-07 10:28:28 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 10:32:47 PM","pickedTime":null,"pin":{"x":0.6574999593734773,"y":0.6400214198342797},"time":"2022-06-07 10:32:47 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-07 10:36:40 PM","pickedTime":null,"pin":{"x":0.6624999589920075,"y":0.6601478796982136},"time":"2022-06-07 10:36:40 PM","map":"siofra-full"}
+{"desc":"Mohg, Lord of Blood","curTime":"2022-06-08 08:07:45 PM","pickedTime":null,"pin":{"x":0.656833293393456,"y":0.6440467156458841},"time":"2022-06-08 08:07:45 PM","map":"siofra-full"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-08 08:33:27 PM","pickedTime":null,"pin":{"x":0.8155832812817931,"y":0.9181524835532577},"time":"2022-06-08 08:33:27 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-08 08:35:13 PM","pickedTime":null,"pin":{"x":0.8318332800420166,"y":0.9131358661100404},"time":"2022-06-08 08:35:13 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-08 08:39:15 PM","pickedTime":null,"pin":{"x":0.8362499361991931,"y":0.9214968951820692},"time":"2022-06-08 08:39:15 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-08 08:43:09 PM","pickedTime":null,"pin":{"x":0.8562499537467991,"y":0.8730029265643019},"time":"2022-06-08 08:43:09 PM","map":"leyndell"}
+{"desc":"Elden Beast","curTime":"2022-06-09 09:45:18 PM","pickedTime":null,"pin":{"x":0.8275,"y":0.9371041409445778},"time":"2022-06-09 09:45:18 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-09 09:48:56 PM","pickedTime":null,"pin":{"x":0.795,"y":0.913693259542897},"time":"2022-06-09 09:48:56 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-09 09:51:46 PM","pickedTime":null,"pin":{"x":0.84875,"y":0.9270709060581432},"time":"2022-06-09 09:51:46 PM","map":"leyndell"}
+{"desc":"Elden Beast","curTime":"2022-06-09 09:58:08 PM","pickedTime":null,"pin":{"x":0.82,"y":0.9203820828005201},"time":"2022-06-09 09:58:08 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-09 09:59:51 PM","pickedTime":null,"pin":{"x":0.8335713608878051,"y":0.91971864235762},"time":"2022-06-09 09:59:51 PM","map":"leyndell"}
+{"desc":"Elden Beast","curTime":"2022-06-09 10:06:38 PM","pickedTime":null,"pin":{"x":0.8160713622229491,"y":0.9063409166506001},"time":"2022-06-09 10:06:38 PM","map":"leyndell"}
+{"desc":"Elden Beast","curTime":"2022-06-09 10:15:00 PM","pickedTime":null,"pin":{"x":0.8248213615553771,"y":0.9180464266442425},"time":"2022-06-09 10:15:00 PM","map":"leyndell"}
+{"desc":"Elden Beast","curTime":"2022-06-09 10:21:36 PM","pickedTime":null,"pin":{"x":0.839821360410968,"y":0.9247352894977525},"time":"2022-06-09 10:21:36 PM","map":"leyndell"}
+{"desc":"Elden Beast","curTime":"2022-06-10 08:33:34 PM","pickedTime":null,"pin":{"x":0.845476188659668,"y":0.9333306762815877},"time":"2022-06-10 08:33:34 PM","map":"leyndell"}
+{"desc":"Elden Beast","curTime":"2022-06-10 08:41:23 PM","pickedTime":null,"pin":{"x":0.820476188659668,"y":0.9249696386760043},"time":"2022-06-10 08:41:23 PM","map":"leyndell"}
+{"desc":"Elden Beast","curTime":"2022-06-10 08:49:46 PM","pickedTime":null,"pin":{"x":0.8442261886596679,"y":0.9216252236337711},"time":"2022-06-10 08:49:46 PM","map":"leyndell"}
+{"desc":"Radagon of the Golden Order","curTime":"2022-06-10 08:53:07 PM","pickedTime":null,"pin":{"x":0.825476188659668,"y":0.9232974311548877},"time":"2022-06-10 08:53:07 PM","map":"leyndell"}
