@@ -23,7 +23,7 @@ function MapPin({}) {
   );
 }
 
-function NestedMaps({ overworld, name, topLeft, size, opacity, onClick }) {
+function Map({ name, pinLocation, onClick }) {
   function handle_click(e) {
     e.preventDefault();
     const bounds = e.target.getBoundingClientRect();
@@ -39,82 +39,91 @@ function NestedMaps({ overworld, name, topLeft, size, opacity, onClick }) {
     }
   }
 
-  function handle_drag(e) {
-    e.preventDefault();
-    if (e.clientX == 0 && e.clientY == 0) {
-      return;
-    }
-    const bounds = e.target.getBoundingClientRect();
-    const offsetX = e.clientX - bounds.x;
-    const offsetY = e.clientY - bounds.y;
-    const x = offsetX / bounds.width;
-    const y = offsetY / bounds.height;
-    const val = { x, y };
-    console.log('Map drag', offsetX, offsetY, val);
-
-    if (onClick) {
-      onClick(val);
-    }
-  }
-
   const [ marker, setMarkers ] = useState([]);
 
   const width = 0.02;
 
-  const src = n => '/maps/' + n + '.png';
+  const src = '/maps/' + name + '.png';
 
   return (
     <div className={styles.mapdiv}>
-      <img src={src(overworld)} className={styles.map} onClick={handle_click} onDrag={handle_drag}/>
-      <img src={src(name)} style={{
-        position: 'absolute',
-        pointerEvents: 'none',
-        opacity: `calc(100% * (${opacity}))`,
-        top: `calc(100% * (${topLeft.y}))`,
-        left: `calc(100% * (${topLeft.x}))`,
-        width: `calc(100% * (${size}))`,
-      }}/>
+      <img src={src} className={styles.map} onClick={handle_click}/>
+      <div style={{
+          position: 'absolute',
+          color: '#e63036d0',
+          bottom: `calc(100% * (1 - ${pinLocation.y}))`,
+          left: `calc(100% * (${pinLocation.x} - ${width}/2))`,
+          width: `calc(100% * ${width})` }}
+      >
+        <FontAwesomeIcon icon={faLocationPin}/>
+      </div>
     </div>
-
   );
 }
 
-function Aligner({}) {
+function DeathForm({}) {
+  const [ desc, setDesc ] = useState('');
   const [ curTime, setCurTime ] = useState(Date.now());
+  const [ pickedTime, setPickedTime ] = useState(null);
   const [ pin, setPin ] = useState({ x: 0, y: 0 });
-  const [ size, setSize ] = useState(50);
-  const [ opacity, setOpacity ] = useState(50);
-
-  const overworlds = [ 'overworld', 'underworld' ];
-
-  const [ overworld, setOverworld ] = useState(overworlds[0]);
 
   const maps = [ 'guide', 'limgrave', 'bestial_sanctum', 'caelid', 'caelid-2', 'weeping-peninsula', 'full-1', 'liurnia-1', 'ainsel-river-blind', 'ainsel-river', 'liurnia-2', 'liurnia-3', 'liurnia-4', 'liurnia-5', 'carian', 'siofra', 'dragonbarrow', 'altus-plateau', 'deeproot-depths', 'mt-gelmir', 'leyndell', 'giants-mountain-1', 'giants-mountain-2', 'flame-peak', 'consecrated-snowfield', 'haligtree', 'lake-of-rot', 'astel', 'farum-azula', 'siofra-full' ];
   const [ map, setMap ] = useState(maps[0]);
 
+  var timeRef = useRef();
+
+  const dateFormat = "YYYY-MM-DD";
+  const timeFormat = "hh:mm:ss A";
+  const formatTime = (t) => moment(t).format(dateFormat + " " + timeFormat);
+
+  function updateTime(t) {
+    console.log('Updating time', t);
+    setPickedTime(t);
+  }
+
+  timeRef.current = pickedTime;
+
   function handle_submit(e) {
     e.preventDefault();
 
+    const curTime = formatTime(curTime);
+    const pickedTime = timeRef.current ? formatTime(timeRef.current) : null;
+    const time = pickedTime || curTime;
     const values = {
-      topLeft: pin, size: size/100, overworld, map 
+      desc, curTime, pickedTime, pin, time, map
     };
 
-    console.log('Submitting alignment form', values);
-    axios.post('/api/alignment', values).then((response) => {
+    console.log('Submitting form', values);
+
+    axios.post('/api/death', values).then((response) => {
       console.log('Successfully submitted form', response);
     }).catch((error) => {
       console.error('Failed to submit form', error);
     });
   }
 
-  const updateSize = (e) => {
-    setSize(e.target.value);
-  }
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurTime(Date.now());
+    }, 1000);
+    return () => clearInterval(interval);
+  }, []);
 
   return (
     <div>
       <div className={styles.deathform}>
         <Form onSubmit={handle_submit}>
+          <Form.Group className="mb-3" controlId="desc">
+            <Form.Control type="text" placeholder="Description" value={desc} onChange={(e) => setDesc(e.target.value)}/>
+          </Form.Group>
+          <Form.Group className="mb-3" controlId="time">
+            <Datetime
+              value={pickedTime ? moment(pickedTime).toDate() : null}
+              inputProps={{ placeholder: formatTime(curTime) }}
+              timeFormat={timeFormat}
+              dateFormat={dateFormat}
+              onChange={updateTime} />
+          </Form.Group>
           <div className="row">
             <div className="col">
               <Form.Group className="mb-3 row" controlId="x">
@@ -131,54 +140,19 @@ function Aligner({}) {
           </div>
           <div className="form-check mb-3 row">
             {
-              overworlds.map((option) => (
-                <Form.Check key={option} type='radio' name='overworld-selector' value={option} label={option} onClick={() => setOverworld(option)}/>
-              ))
-            }
-          </div>
-          <div className="form-check mb-3 row">
-            {
               maps.map((option) => (
                 <Form.Check key={option} type='radio' name='map-selector' value={option} label={option} onClick={() => setMap(option)}/>
               ))
             }
           </div>
           <div className="row">
-            <div className="col">
-              <Form.Group className="mb-3 row" controlId="x">
-                <Form.Label className="col-1" style={{ margin: 'auto' }}>Width</Form.Label>
-                <Form.Control className="col" type="text" readOnly disabled value={size}/>
-              </Form.Group> 
-              <Form.Range id='size' value={size} onChange={updateSize} step={0.1}/>
-            </div>
-          </div>
-          <div className="row">
-              <Form.Range id='opacity' value={opacity} onChange={(e) => setOpacity(e.target.value)}  />
-          </div>
-          <div className="row">
             <div className="col-sm">
-              <Button variant="primary" type="submit">Mark Alignment</Button>
+              <Button variant="primary" type="submit">Death</Button>
             </div>
           </div>
         </Form>
       </div>
-      <NestedMaps overworld={overworld} name={map} topLeft={pin} size={size/100} opacity={opacity/100} onClick={setPin}/>
-          <div className="row">
-            <div className="col">
-              <Form.Group className="mb-3 row" controlId="x">
-                <Form.Label className="col-1" style={{ margin: 'auto' }}>Width</Form.Label>
-                <Form.Control className="col" type="text" readOnly disabled value={size}/>
-              </Form.Group> 
-              <Form.Range id='size' value={size} onChange={updateSize} step={0.1}/>
-            </div>
-          </div>
-          <div className="row">
-              <Form.Range id='opacity' value={opacity} onChange={(e) => setOpacity(e.target.value)}  />
-          </div>
-      <div style={{
-        height: '800px',
-      }}>
-      </div>
+      <Map pinLocation={pin} onClick={setPin} name={map} />
     </div>
   );
 }
@@ -187,12 +161,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Map aligner</title>
+        <title>Death Tracker</title>
         <meta name="description" content="Generated by create next app" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Aligner/>
+      <DeathForm/>
     </div>
   )
 }
