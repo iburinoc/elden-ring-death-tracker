@@ -17,8 +17,8 @@
 {"desc": "Margit", "time": "2022-03-01 09:13:03 PM", "pin": {"x": 0.3402525, "y": 0.75741967252195}, "map": "overworld"}
 {"desc": "Margit", "time": "2022-03-01 09:14:08 PM", "pin": {"x": 0.3402525, "y": 0.75741967252195}, "map": "overworld"}
 {"desc": "Margit", "time": "2022-03-01 09:15:57 PM", "pin": {"x": 0.3402525, "y": 0.75741967252195}, "map": "overworld"}
-{"desc": "Mad Tongue Alberich", "time": "2022-03-01 09:17:34 PM", "pin": {"x": 0.3164, "y": 0.9608430270430868}, "map": "overworld"}
-{"desc": "Mad Tongue Alberich", "time": "2022-03-01 09:31:08 PM", "pin": {"x": 0.3164, "y": 0.9608430270430868}, "map": "overworld"}
+{"desc": "Mad Tongue Alberich", "time": "2022-03-01 09:17:34 PM", "pin": {"x": 0.09233328247070312, "y": 0.9473476991214648}, "map": "overworld"}
+{"desc": "Mad Tongue Alberich", "time": "2022-03-01 09:31:08 PM", "pin": {"x": 0.09833328247070312, "y": 0.9573476991214648}, "map": "overworld"}
 {"desc": "Limgrave fields", "time": "2022-03-01 09:31:11 PM", "pin": {"x": 0.406735, "y": 0.7683309459384713}, "map": "overworld"}
 {"desc": "Stormfoot Catacombs", "time": "2022-03-01 09:40:39 PM", "pin": {"x": 0.36258250000000003, "y": 0.7807647226224143}, "map": "overworld"}
 {"desc": "Erdtree burial watchdog", "time": "2022-03-01 10:04:49 PM", "pin": {"x": 0.36258250000000003, "y": 0.7807647226224143}, "map": "overworld"}
@@ -109,7 +109,7 @@
 {"desc": "Godrick", "time": "2022-03-06 06:22:18 PM", "pin": {"x": 0.3197833320426941, "y": 0.7197800893221745}, "map": "overworld"}
 {"desc": "Godrick", "time": "2022-03-06 06:25:41 PM", "pin": {"x": 0.3197833320426941, "y": 0.7197800893221745}, "map": "overworld"}
 {"desc": "Godrick", "time": "2022-03-06 06:31:55 PM", "pin": {"x": 0.3197833320426941, "y": 0.7197800893221745}, "map": "overworld"}
-{"desc": "Mad Tongue Alberich", "time": "2022-03-06 06:38:39 PM", "pin": {"x": 0.22398124628067018, "y": 0.8994176703132832}, "map": "overworld"}
+{"desc": "Mad Tongue Alberich", "time": "2022-03-06 06:38:39 PM", "pin": {"x": 0.09233328247070312, "y": 0.9473476991214648}, "map": "overworld"}
 {"desc": "Impassable Greatbridge", "time": "2022-03-06 06:45:23 PM", "pin": {"x": 0.5994166652679443, "y": 0.8171249039258219}, "map": "overworld"}
 {"desc": "Impassable Bridge Castle", "time": "2022-03-07 10:47:23 PM", "pin": {"x": 0.6216916652679443, "y": 0.8096997905637534}, "map": "overworld"}
 {"desc": "Castle Redmane", "time": "2022-03-07 11:40:01 PM", "pin": {"x": 0.63315, "y": 0.812650123953793}, "map": "overworld"}

@@ -1,5 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
-import moment from 'moment';
+import { DateTime } from 'luxon';
+
+import sorted from 'sorted-array-functions';
 
 import Head from 'next/head'
 import Image from 'next/image'
@@ -19,7 +21,7 @@ import { faLocationPin } from '@fortawesome/free-solid-svg-icons'
 
 import axios from 'axios';
 
-function DeathTip({ death, opacity }) {
+function DeathTip({ death, opacity, index }) {
   const target = useRef(null);
 
   return (<div>
@@ -35,18 +37,16 @@ function DeathTip({ death, opacity }) {
     </div>
   <Overlay show={true} target={target.current} shouldUpdatePosition={true} key={Math.random()}>
   <Tooltip style={{ opacity: `calc(100% * ${opacity})` }}>
-  {death.desc}
+    {index}: {death.desc}
   </Tooltip>
   </Overlay>
     </div>);
 }
 
 function Time({ time }) {
-  const dateFormat = "YYYY-MM-DD";
-  const timeFormat = "hh:mm:ss A";
-  const formatted = moment(time).format(dateFormat + " " + timeFormat);
+  const formatted = time.toFormat('EEE, MMM dd, yyyy, hh:mm a');
 
-  return <h3 style={{ fontFamily: 'Courier New' }}>{formatted}</h3>;
+  return <h3 style={{ fontFamily: 'Courier New', fontSize: '1.5rem' }}>{formatted}</h3>;
 }
 
 function Map({ name, deaths, count, time }) {
@@ -58,62 +58,94 @@ function Map({ name, deaths, count, time }) {
   return (
     <div className={styles.mapdiv}>
       <img src={src} className={styles.map}/>
-    {deaths.map((death, i) => <DeathTip death={death} opacity={(i + 1)/deaths.length}/>)}
-      <div style={{ position: 'absolute', left: '10%', top: '1%', color: 'white' }}>
-        <h3 style={{ fontFamily: 'Courier New' }}>Death: {count}</h3>
+    {deaths.map(({ death, opacity, index}, i) => <DeathTip death={death} index={index} opacity={opacity}/>)}
+      <div style={{ position: 'absolute', left: '2%', top: '9%', color: 'white' }}>
+        <h3 style={{ fontFamily: 'Courier New', fontSize: '2rem' }}>Death: {count}</h3>
       </div>
-      <div style={{ position: 'absolute', left: '46%', top: '1%', color: 'white' }}>
+      <div style={{ position: 'absolute', left: '2%', top: '5%', color: 'white' }}>
         <Time time={time} />
       </div>
     </div>
   );
 }
 
-function DeathForm({ deaths }) {
+const cmpTime = (a, b) => (Number(a > b) - Number(a < b));
+
+function DeathForm({ deaths, minutes }) {
   const [ index, setIndex ] = useState(0);
-  const sublist = deaths.slice(Math.max(0, index-9), index+1);
-  console.log('On death', index, sublist.length);
+  const curTime = minutes[index];
+  const range = 60;
+  const halflife = 40;
+  const earliestTime = minutes[Math.max(0, index-range)];
 
-  const maps = [ 'overworld', 'underworld' ];
+  const lastDeath = ((idx) => (idx == -1) && deaths.length || idx)
+    (sorted.gt(deaths, curTime, ((d, t) => cmpTime(d.time, t))));
+  const firstDeath = ((idx) => (idx == -1) && deaths.length || idx)
+    (sorted.gt(deaths, earliestTime, ((d, t) => cmpTime(d.time, t))));
+  const display = deaths.slice(firstDeath, lastDeath);
+  const withOpacity = display.map((d, i) => {
+    const idx = sorted.eq(minutes, d.time.startOf("minute"), cmpTime);
+    const opacity = Math.max(0, (range - (index-idx))/range);
+    return { death: d, opacity, index: i + firstDeath + 1};
+  });
 
-  const death = (index < deaths.length && deaths[index]);
-  const map = (death && death.map) || 'overworld';
+  const map = 'overworld';
 
   const [ playing, setPlaying ] = useState(false);
 
   useEffect(() => {
     const interval = setTimeout(() => {
       if (playing) {
-        if (index + 1 < deaths.length) {
+        if (index + 1 < minutes.length) {
           setIndex(index + 1);
         } else {
           setPlaying(false);
         }
       }
-    }, 100);
+    }, 10);
     return () => clearTimeout(interval);
   });
 
   return (
     <div className={styles.mapdiv}>
       <Button variant="primary" onClick={() => setPlaying(!playing)}>{ (!playing && 'Play') || 'Stop' }</Button>
-      <Form.Range id='index' value={index} onChange={(e) => setIndex(Number(e.target.value))} min={0} max={deaths.length-1}/>
-      <Map name={map} deaths={sublist} count={index+1} time={(death && death.time) || moment(0)}/>
+      <Form.Range id='index' value={index} onChange={(e) => setIndex(Number(e.target.value))} min={0} max={minutes.length-1}/>
+      <Map name={map} deaths={withOpacity} count={lastDeath} time={curTime}/>
     </div>
   );
 }
 
+const minutesForDeaths = (deaths) => {
+  const buffer = 60;
+  return deaths.flatMap((death) => {
+    const baseTime = death.time.startOf("minute");
+    return Array(buffer * 2 + 1)
+      .fill()
+      .map((_, i) => baseTime.plus({ minutes: i - buffer }));
+  }).sort().filter((e, i, a) => !i || (cmpTime(e, a[i-1]) != 0));
+};
+
 export default function Home() {
-  const [ deaths, setDeaths ] = useState([]);
+  const [ deaths, setDeaths ] = useState(null);
 
   useEffect(() => {
     axios.get('/data/deaths-stitched.json').then((response) => {
       console.log('Fetched deaths', response);
-      setDeaths(response.data.split('\n').slice(0,-1).map(JSON.parse))
+      const deaths = response.data.split('\n').slice(0,-1).map(JSON.parse);
+      deaths.map((death) => {
+        death.time = DateTime.fromFormat(death.time, "yyyy-MM-dd hh:mm:ss a", { zone: 'America/New_York' });
+      });
+
+      setDeaths(deaths);
     }).catch((error) => {
       console.error('Failed to fetch data', error);
     });
   }, []);
+
+  const minutes = deaths && minutesForDeaths(deaths);
+  if (deaths && minutes) {
+    console.log('Deaths and minutes', deaths.length, minutes.length);
+  }
 
   return (
     <div className={styles.container}>
@@ -123,7 +155,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <DeathForm deaths={deaths}/>
+    {deaths && <DeathForm deaths={deaths} minutes={minutes}/>}
     </div>
   )
 }
