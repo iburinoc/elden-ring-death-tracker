@@ -89,7 +89,7 @@ function DeathForm({ deaths, minutes }) {
     return { death: d, opacity, index: i + firstDeath + 1};
   });
 
-  const map = 'overworld';
+  const map = lastDeath > 0 && deaths[lastDeath-1].map || 'overworld';
 
   const [ playing, setPlaying ] = useState(false);
 
