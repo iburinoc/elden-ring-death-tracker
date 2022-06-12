@@ -19,7 +19,7 @@ import { faLocationPin } from '@fortawesome/free-solid-svg-icons'
 
 import axios from 'axios';
 
-function DeathTip({ death }) {
+function DeathTip({ death, opacity }) {
   const target = useRef(null);
 
   return (<div>
@@ -34,14 +34,22 @@ function DeathTip({ death }) {
   >
     </div>
   <Overlay show={true} target={target.current} shouldUpdatePosition={true} key={Math.random()}>
-  <Tooltip>
+  <Tooltip style={{ opacity: `calc(100% * ${opacity})` }}>
   {death.desc}
   </Tooltip>
   </Overlay>
     </div>);
 }
 
-function Map({ name, death }) {
+function Time({ time }) {
+  const dateFormat = "YYYY-MM-DD";
+  const timeFormat = "hh:mm:ss A";
+  const formatted = moment(time).format(dateFormat + " " + timeFormat);
+
+  return <h3 style={{ fontFamily: 'Courier New' }}>{formatted}</h3>;
+}
+
+function Map({ name, deaths, count, time }) {
 
   const [ marker, setMarkers ] = useState([]);
 
@@ -50,28 +58,47 @@ function Map({ name, death }) {
   return (
     <div className={styles.mapdiv}>
       <img src={src} className={styles.map}/>
-      {(death && <DeathTip death={death} />)}
+    {deaths.map((death, i) => <DeathTip death={death} opacity={(i + 1)/deaths.length}/>)}
+      <div style={{ position: 'absolute', left: '10%', top: '1%', color: 'white' }}>
+        <h3 style={{ fontFamily: 'Courier New' }}>Death: {count}</h3>
+      </div>
+      <div style={{ position: 'absolute', left: '46%', top: '1%', color: 'white' }}>
+        <Time time={time} />
+      </div>
     </div>
   );
 }
 
 function DeathForm({ deaths }) {
   const [ index, setIndex ] = useState(0);
-  console.log('On death', index);
+  const sublist = deaths.slice(Math.max(0, index-9), index+1);
+  console.log('On death', index, sublist.length);
 
   const maps = [ 'overworld', 'underworld' ];
-
-  const dateFormat = "YYYY-MM-DD";
-  const timeFormat = "hh:mm:ss A";
-  const formatTime = (t) => moment(t).format(dateFormat + " " + timeFormat);
 
   const death = (index < deaths.length && deaths[index]);
   const map = (death && death.map) || 'overworld';
 
+  const [ playing, setPlaying ] = useState(false);
+
+  useEffect(() => {
+    const interval = setTimeout(() => {
+      if (playing) {
+        if (index + 1 < deaths.length) {
+          setIndex(index + 1);
+        } else {
+          setPlaying(false);
+        }
+      }
+    }, 100);
+    return () => clearTimeout(interval);
+  });
+
   return (
-    <div>
-      <Form.Range id='index' value={index} onChange={(e) => setIndex(e.target.value)} min={0} max={deaths.length-1}/>
-        <Map name={map} death={death} />
+    <div className={styles.mapdiv}>
+      <Button variant="primary" onClick={() => setPlaying(!playing)}>{ (!playing && 'Play') || 'Stop' }</Button>
+      <Form.Range id='index' value={index} onChange={(e) => setIndex(Number(e.target.value))} min={0} max={deaths.length-1}/>
+      <Map name={map} deaths={sublist} count={index+1} time={(death && death.time) || moment(0)}/>
     </div>
   );
 }
